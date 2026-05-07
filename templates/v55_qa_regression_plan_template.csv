@@ -1,0 +1,11 @@
+test_id,area,scenario,expected,status,notes
+QA-001,Startup,Double-click START_ERP_LOCAL.bat,Installs dependencies once and starts Vite,,
+QA-002,Setup,Import branches/stores/items/cost centers,Master data loads without duplicate codes,,
+QA-003,Inventory,Post opening stock with unknown SKU auto-create,Creates item and stock movement,,
+QA-004,Inventory,Generate and upload monthly count sheet,Creates shortage/surplus approvals,,
+QA-005,Foodics,Upload products/ingredients/modifiers,Menu and recipes map by SKU,,
+QA-006,Foodics,Upload orders/lines/payments,Validation cockpit works,,
+QA-007,Sales,Post Sales Accounting Only without recipes,Sales/VAT/payment journals post,,
+QA-008,Sales,Full ERP Posting after stock and recipes ready,Inventory/COGS/VAT/sales reconcile,,
+QA-009,Finance,Review GL/TB/P&L/BS/AP aging,Statements render and export,,
+QA-010,Close,Open Enterprise HQ v55,All ten tabs render and export,,

@@ -1,0 +1,2 @@
+party_code,document_no,document_date,due_date,debit,credit,balance,source_type,source_id,status
+SUP-001,PINV-001,2026-01-01,2026-01-31,0,1000,1000,purchase_invoice,PINV-001,open

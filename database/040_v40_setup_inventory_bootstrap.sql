@@ -1,0 +1,3 @@
+-- v40 setup/inventory bootstrap design
+-- Adds controlled starter behavior for opening stock and monthly stock count.
+-- Production backend should stage unknown SKUs and require item-master approval before posting.

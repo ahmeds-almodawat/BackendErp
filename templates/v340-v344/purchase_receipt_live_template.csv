@@ -1,0 +1,2 @@
+receipt_no,supplier_code,branch_code,store_code,receipt_date,sku,quantity,unit_cost,lot_no,expiry_date
+REC-LIVE-001,SUP-001,MAIN,MAIN-STORE,2026-01-05,ITEM-001,20,10,LOT-002,2026-12-31

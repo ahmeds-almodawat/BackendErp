@@ -1,0 +1,5 @@
+check_key,area,label,required_for_go_live,status
+build_passes,deployment,npm run build passes,true,not_checked
+backup_plan,backup,Backup plan exists,true,not_checked
+restore_test,backup,Restore test completed,true,not_checked
+rls_enabled,access_control,RLS enabled,true,not_checked

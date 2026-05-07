@@ -1,0 +1,5 @@
+pack_key,title,area,required,record_count,status
+branches_stores,Branches and stores,setup,true,4,planned
+coa,Chart of accounts,finance,true,80,planned
+items_suppliers,Items and suppliers,setup,true,250,planned
+opening_stock,Opening stock,inventory,true,250,planned

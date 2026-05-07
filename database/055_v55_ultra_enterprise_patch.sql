@@ -1,0 +1,5 @@
+-- v55 Ultra Enterprise Patch backend design notes
+-- Future backend tables:
+-- enterprise_close_runs, enterprise_close_check_results, food_cost_variance_rows,
+-- purchase_variance_rows, finance_close_snapshots, permission_coverage_snapshots,
+-- data_quality_findings, qa_regression_runs.

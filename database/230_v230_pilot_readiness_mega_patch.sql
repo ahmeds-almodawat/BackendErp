@@ -1,0 +1,6 @@
+-- v230 Pilot Readiness Mega Patch design notes
+-- Future backend tables:
+-- pilot_test_runs(id, company_id, period_start, period_end, tester, score, blockers, warnings, notes, created_at)
+-- pilot_test_run_checks(id, run_id, area, check_name, status, evidence, owner, next_action)
+-- pilot_issues(id, company_id, module, severity, issue, evidence, fix, status, created_by, created_at, resolved_at)
+-- expected_result_checks(id, run_id, metric, expected_value, actual_value, tolerance, status)

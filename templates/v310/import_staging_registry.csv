@@ -1,0 +1,7 @@
+source_type,file_name,required_columns,notes
+chart_of_accounts,coa_import.csv,"code,name,type,parent_code,allow_posting","Use for initial chart of accounts."
+items,items_import.csv,"sku,name_en,name_ar,category,unit,stock_item","Use for item master data."
+suppliers,suppliers_import.csv,"supplier_code,name,vat_number,payment_terms","Use for supplier master data."
+opening_balances,opening_balances.csv,"account_code,debit,credit,branch_code,period_code","Debit and credit totals must match."
+opening_stock,opening_stock.csv,"sku,store_code,quantity,unit_cost","Used for first stock opening."
+foodics_sales,foodics_sales.csv,"business_date,branch,total_sales,total_tax,total_discount,total_payments","Used for daily POS sales staging."

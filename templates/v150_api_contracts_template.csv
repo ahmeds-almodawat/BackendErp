@@ -1,0 +1,2 @@
+endpoint,input,output,guard
+POST /functions/v1/posting-orchestrator,"documentType,documentId,postingMode","journal_id,stock_movement_ids,audit_id",permission + period + lifecycle + balance

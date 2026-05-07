@@ -1,0 +1,4 @@
+id,test,expected,status
+QA-001,Empty app boot,No white page,manual
+QA-002,Foodics starter flow,Sales accounting-only works,manual
+QA-003,Monthly stock count,Variance approval created,manual

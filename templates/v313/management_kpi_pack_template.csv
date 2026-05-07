@@ -1,0 +1,2 @@
+period_start,period_end,branch_id,kpi_key,kpi_label,kpi_value,unit,source_table,notes
+2026-05-01,2026-05-31,,net_sales,Net sales,,SAR,posting_batches,Populate from posted sales_pos_batch lines

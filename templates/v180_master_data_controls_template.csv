@@ -1,0 +1,2 @@
+area,control,status,evidence,next
+Items,Unique SKU,Clean,0 duplicate SKUs,Keep Supabase unique index

@@ -1,0 +1,4 @@
+gate,status,evidence,action
+App boot,ready,Error boundary and tested build,Continue QA
+Clean sidebar,ready,Only consolidated Enterprise Command shown,Keep historical modules archived
+Backend pilot,warning,Supabase scaffold exists,Connect Auth/RLS/server posting

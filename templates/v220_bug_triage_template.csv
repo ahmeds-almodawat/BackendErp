@@ -1,0 +1,5 @@
+id,severity,module,issue,recommended,status,owner
+BUG-001,High,Sales/POS,Foodics module crash,Export diagnostics and screenshot,open,QA
+BUG-002,High,Inventory,Opening stock not posting,Check CSV headers and item/store codes,open,Inventory
+BUG-003,Medium,Finance,Trial balance difference,Review journals and reversal rows,open,Finance
+BUG-004,Medium,Setup,Duplicate SKU or account code,Merge or deactivate duplicate master data,open,Master Data

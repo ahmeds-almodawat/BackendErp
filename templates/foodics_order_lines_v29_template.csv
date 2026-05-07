@@ -1,0 +1,2 @@
+order_reference,check_number,order_status,type,parent_item_sku,status,sku,name,name_localized,unit_price,unit_cost,quantity,total_price,total_cost,discount_amount,discount_name,tax_exclusive_unit_price,tax_exclusive_total_price,tax_exclusive_discount_amount,total_taxes,business_date,branch_name,branch_reference
+ORD-001,CHK-1,Done,Product,,Done,PIZZA-001,Margherita Pizza,بيتزا مارجريتا,115,0,1,115,0,0,,100,100,0,15,2026-04-01,Restaurant 1,B01

@@ -1,0 +1,2 @@
+ref,date,mode,status,order_count,line_count,payment_count,order_gross,payment_total,difference,journal_refs,stock_movement_count,sales_doc_count,note
+FOODICS-2026-04,2026-04-30,report,report_only,18253,48793,18700,1239058.60,1236620.60,2438.00,,,,Report-only import registered

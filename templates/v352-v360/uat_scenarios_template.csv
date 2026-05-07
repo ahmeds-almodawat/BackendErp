@@ -1,0 +1,4 @@
+scenario_key,title,module,status,critical
+purchase_to_payment,Purchase invoice to supplier payment,purchasing,not_started,true
+pos_to_finance,POS sales to finance,sales,not_started,true
+period_close,Period close,finance,not_started,true

@@ -1,0 +1,6 @@
+id,test,expected,status
+V301-QA-001,App boots in local mode,No Supabase env required,manual
+V301-QA-002,Setup validation,Critical duplicate/orphan setup errors visible,manual
+V301-QA-003,Export setup JSON,Payload includes setup master data,manual
+V301-QA-004,Generate SQL seed,SQL file downloads for review,manual
+V301-QA-005,Local dry-run,Works without Supabase env,manual

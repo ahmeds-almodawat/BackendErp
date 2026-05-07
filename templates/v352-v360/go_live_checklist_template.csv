@@ -1,0 +1,6 @@
+item_key,section,label,status,required
+production_backup,Backup,Production backup plan approved,not_checked,true
+restore_test,Backup,Restore tested on staging,not_checked,true
+admin_users,Access,Admin users confirmed,not_checked,true
+opening_balances,Finance,Opening balances posted and reconciled,not_checked,true
+opening_stock,Inventory,Opening stock posted and reconciled,not_checked,true

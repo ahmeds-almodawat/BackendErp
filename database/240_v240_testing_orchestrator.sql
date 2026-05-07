@@ -1,0 +1,3 @@
+-- v240 Testing Orchestrator design placeholder
+-- Future backend tables:
+-- pilot_test_runs, pilot_test_steps, pilot_issues, pilot_expected_results, pilot_evidence_exports

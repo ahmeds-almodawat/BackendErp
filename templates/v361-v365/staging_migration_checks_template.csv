@@ -1,0 +1,5 @@
+check_key,label,expected_object,object_type,required,status
+branches,Branches table exists,public.branches,table,true,not_checked
+items,Items table exists,public.items,table,true,not_checked
+finance_journals,Finance journal backend exists,public.finance_journal_entries_backend,table,true,not_checked
+go_live_rpc,Go-live readiness summary RPC exists,public.go_live_readiness_summary,function,true,not_checked

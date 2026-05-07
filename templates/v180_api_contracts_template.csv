@@ -1,0 +1,2 @@
+endpoint,purpose,input,output,guard
+POST /functions/v1/posting-orchestrator,Transaction-safe posting,documentType/documentId/postingMode,journal_id/stock_ids/audit_id,status,permission + period + lifecycle

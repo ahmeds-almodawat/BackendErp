@@ -1,0 +1,4 @@
+case_key,module,actor_role,action,resource,expected,status,critical
+normal_user_cannot_post_journal,finance,normal_user,rpc,finance_post_journal,deny,not_run,true
+finance_can_create_journal,finance,finance,insert,finance_journal_entries_backend,allow,not_run,true
+admin_can_manage_settings,setup,admin,update,app_settings,allow,not_run,true

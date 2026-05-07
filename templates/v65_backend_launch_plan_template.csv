@@ -1,0 +1,6 @@
+phase,deliverable,risk,owner
+01,Auth + profiles + scopes,Unknown user / unsafe access,Platform
+02,Core master data schema + constraints,Duplicate/broken master data,Data
+03,Inventory ledger + costing functions,Wrong stock/cost,Inventory
+04,Accounting posting Edge Functions,Client-side manipulation,Finance
+05,Foodics import staging + batch register,Duplicate/bad imports,Sales

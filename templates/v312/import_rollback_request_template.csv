@@ -1,0 +1,2 @@
+cutover_batch_id,reason,requested_by,status,applied_correction_batch_id
+00000000-0000-0000-0000-000000000000,Reverse duplicate POS settlement due to clock skew,,pending,

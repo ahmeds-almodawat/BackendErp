@@ -1,0 +1,2 @@
+priority,area,issue,severity,owner,action,status
+1,Backend,Production launch readiness,bad,System Admin,Start Supabase Auth/Postgres/RLS/Edge Functions,open

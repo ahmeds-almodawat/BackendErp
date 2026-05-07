@@ -1,0 +1,7 @@
+document_type,document_ref,status,prepared_by,approved_by,print_required,attachment_required,notes
+purchase_order,PO-00001,approved,storekeeper,operations_manager,true,true,
+goods_receipt,GRN-00001,posted,storekeeper,,true,true,
+supplier_invoice,PINV-00001,posted,accountant,finance_manager,true,true,
+payment_voucher,PAY-00001,posted,accountant,finance_manager,true,true,
+journal_voucher,JE-00001,posted,accountant,finance_manager,true,true,
+stock_count_variance,SCV-00001,approved,storekeeper,branch_manager,true,false,

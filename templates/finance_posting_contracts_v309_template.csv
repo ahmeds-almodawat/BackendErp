@@ -1,0 +1,5 @@
+contract_key,source_module,source_document_ref,posting_date,account_code,debit,credit,branch_code,cost_center_code,memo
+manual_journal,Finance,JE-0001,2026-05-05,1010,1000,0,HQ,ADMIN,Cash correction debit
+manual_journal,Finance,JE-0001,2026-05-05,3000,0,1000,HQ,ADMIN,Opening equity credit
+purchase_invoice,Purchasing,PI-0001,2026-05-05,1300,500,0,HQ,KITCHEN,Inventory received
+purchase_invoice,Purchasing,PI-0001,2026-05-05,2100,0,500,HQ,KITCHEN,AP recognized

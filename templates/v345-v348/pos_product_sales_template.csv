@@ -1,0 +1,2 @@
+batch_no,product_code,sku,product_name,category_code,quantity,gross_sales,discount_amount,refund_amount,tax_amount,net_sales
+POS-LIVE-001,PIZZA-001,ITEM-001,Margherita Pizza,PIZZA,2,100,0,0,15,100

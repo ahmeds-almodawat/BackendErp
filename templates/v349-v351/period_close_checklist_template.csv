@@ -1,0 +1,2 @@
+close_no,fiscal_period_code,branch_code,requested_by,backup_confirmed,trial_balance_balanced,inventory_reconciled,ap_reconciled,ar_reconciled,bank_reconciled,vat_reviewed
+CLOSE-LIVE-001,2026-01,MAIN,Finance Manager,true,true,true,true,true,true,true

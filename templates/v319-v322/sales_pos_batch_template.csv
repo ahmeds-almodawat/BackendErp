@@ -1,0 +1,2 @@
+batch_no,branch_code,business_date,source_system,total_sales,total_tax,total_discount,total_refunds,total_payments,status
+POS-001,MAIN,2026-01-10,foodics,10000,1500,200,0,11300,draft

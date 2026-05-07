@@ -1,0 +1,3 @@
+-- v130 design companion file.
+-- See supabase/migrations/20260502130000_v130_backend_cutover_schema.sql and related migrations.
+-- This file is kept for the app's historical database documentation folder.

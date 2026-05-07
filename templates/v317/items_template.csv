@@ -1,0 +1,2 @@
+sku,name_en,name_ar,category_code,purchase_unit,consumption_unit,conversion_factor,costing_method,standard_cost,stock_item,recipe_item,sale_item,status
+ITEM-001,Sample Item,??? ??????,FOOD,CTN,PCS,12,weighted_average,0,true,true,false,active

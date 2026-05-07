@@ -1,0 +1,7 @@
+wave,layer,status,action
+01,Supabase environment,planned,Fill env and run local Supabase reset
+02,Setup persistence,designed,Persist setup master data
+03,Foodics staging,designed,Store batches rows mappings and issue resolutions
+04,Posting orchestrator,designed,Move critical posting to Edge Functions
+05,Attachment vault,designed,Enable storage buckets and signed URLs
+06,RLS and audit,designed,Enforce scope and immutable audit

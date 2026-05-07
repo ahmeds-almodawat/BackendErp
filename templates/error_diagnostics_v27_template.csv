@@ -1,0 +1,2 @@
+at,module_key,route_key,error_name,error_message,user_agent,notes
+2026-05-01,reports,reports,TypeError,Example error message,Chrome/Windows,Exported from safe recovery screen

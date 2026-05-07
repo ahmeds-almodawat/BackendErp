@@ -1,0 +1,6 @@
+sprint,deliverable,owner,status
+S1,Supabase Auth + profiles,Tech Lead,not_started
+S2,Master data schema + RLS,Tech Lead,not_started
+S3,Foodics import staging,Tech Lead,not_started
+S4,Server-side posting Edge Functions,Tech Lead,not_started
+S5,Storage buckets + audit triggers,Tech Lead,designed

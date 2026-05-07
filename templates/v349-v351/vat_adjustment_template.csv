@@ -1,0 +1,2 @@
+direction,taxable_amount,vat_amount,reason
+output,1000,150,Manual VAT correction

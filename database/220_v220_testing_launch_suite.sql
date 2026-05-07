@@ -1,0 +1,6 @@
+-- v220 Testing Launch Suite design notes
+-- Future backend tables recommended:
+-- qa_test_runs(id, company_id, tester_user_id, period_start, period_end, score, blockers, warnings, notes, created_at)
+-- qa_test_results(id, run_id, scenario_id, status, evidence, notes, created_at)
+-- qa_bug_triage(id, company_id, severity, module, issue, recommended_fix, status, owner_user_id, created_at)
+-- release_gates(id, company_id, gate_key, status, evidence, approved_by, approved_at)

@@ -1,0 +1,4 @@
+period_code,fiscal_year,fiscal_month,starts_at,ends_at,status
+2026-01,2026,1,2026-01-01,2026-01-31,open
+2026-02,2026,2,2026-02-01,2026-02-28,open
+2026-03,2026,3,2026-03-01,2026-03-31,open

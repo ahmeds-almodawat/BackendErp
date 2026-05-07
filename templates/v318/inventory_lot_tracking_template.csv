@@ -1,0 +1,2 @@
+store_code,sku,lot_no,batch_no,expiry_date,quantity,unit_cost,status
+MAIN-STORE,ITEM-001,LOT-001,BATCH-001,2026-12-31,50,10,available

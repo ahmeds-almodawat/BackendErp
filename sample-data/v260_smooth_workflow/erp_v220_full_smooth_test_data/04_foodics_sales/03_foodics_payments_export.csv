@@ -1,0 +1,14 @@
+﻿order_reference,branch_name,branch_reference,payment_method_name,payment_method_name_localized,retrieval_reference_number,amount,tendered,tips,business_date,order_business_date,paid_at,employee_name
+ORD-001,Restaurant 1,B01,Cash,نقدي,,156,156,0,2026-05-01,2026-05-01,2026-05-01 12:57,Cashier 1
+ORD-002,Restaurant 1,B01,MADA-External,مدى خارجي,RRN-1002,128,128,0,2026-05-01,2026-05-01,2026-05-01 12:58,Cashier 1
+ORD-003,Restaurant 1,B01,Cash,نقدي,,75,75,0,2026-05-01,2026-05-01,2026-05-01 12:59,Cashier 2
+ORD-004,Restaurant 1,B01,MADA-External,مدى خارجي,RRN-1004,135,135,0,2026-05-01,2026-05-01,2026-05-01 12:00,Cashier 1
+ORD-006,Restaurant 1,B01,MADA-External,مدى خارجي,RRN-1006,-46,-46,0,2026-05-01,2026-05-01,2026-05-01 12:02,Cashier 1
+ORD-007,Restaurant 1,B01,Internal Hospitality,ضيافة داخلية,,40,40,0,2026-05-02,2026-05-02,2026-05-02 12:03,Supervisor
+ORD-008,Restaurant 2,B02,MADA-External,مدى خارجي,RRN-1008,204,204,0,2026-05-01,2026-05-01,2026-05-01 12:04,Cashier 3
+ORD-009,Restaurant 2,B02,Jahez Receivable,جاهز,RRN-1009,122,122,0,2026-05-01,2026-05-01,2026-05-01 12:05,Cashier 3
+ORD-010,Restaurant 2,B02,Cash,نقدي,,103,103,0,2026-05-01,2026-05-01,2026-05-01 12:06,Cashier 4
+ORD-011,Restaurant 2,B02,MADA-External,مدى خارجي,RRN-1011,49,49,0,2026-05-02,2026-05-02,2026-05-02 12:07,Cashier 4
+ORD-012,Restaurant 2,B02,Cash,نقدي,,156,156,0,2026-05-02,2026-05-02,2026-05-02 12:08,Cashier 3
+ORD-013,Restaurant 1,B01,Jahez Receivable,جاهز,RRN-1013,68,68,0,2026-05-02,2026-05-02,2026-05-02 12:09,Cashier 2
+ORD-014,Restaurant 2,B02,MADA-External,مدى خارجي,RRN-1014,121,121,0,2026-05-02,2026-05-02,2026-05-02 12:10,Cashier 4

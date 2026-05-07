@@ -1,0 +1,3 @@
+section,area,item,status,score,detail,next_step
+quality_check,Finance,Balanced journals,ready,100,0 unbalanced journals,Keep enforcing debit equals credit
+lifecycle,Sales,Foodics Batch,posted,100,Posted and approved,Include in close pack

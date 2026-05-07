@@ -1,0 +1,4 @@
+test,steps,expected_result,priority
+Open app empty,Clear storage and open all modules,No white page,High
+Foodics starter flow,Upload sample Foodics files and post Sales Accounting Only,Missing recipes warn not block,High
+Inventory monthly count,Generate count sheet upload counted qty approve variance,Variance posts only after approval,High

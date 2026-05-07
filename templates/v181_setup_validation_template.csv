@@ -1,0 +1,7 @@
+area,control,count,status
+Branches,Unique branch code,0,Ready
+Stores,Unique store code,0,Ready
+Stores,Valid branch link,0,Ready
+Items,Unique SKU,0,Ready
+Suppliers,VAT/bank compliance,0,Ready
+Chart of Accounts,Unique account code,0,Ready

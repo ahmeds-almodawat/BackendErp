@@ -1,0 +1,22 @@
+﻿metric,expected_value,note
+Total order headers,14,"Includes Done, Void, Returned"
+Done orders,12,Normal recognized sales
+Void orders,1,Should be excluded from posting
+Returned orders,1,Should reduce sales/VAT and reverse payment
+Foodics order lines,27,Product line rows
+Payment lines,13,Void has no payment; return has negative payment
+Recognized gross after void/return,1311.0,Should match payments total
+Recognized net excluding VAT,1140.0,Sales revenue before VAT
+VAT output,171.0,Expected VAT from Foodics fields
+Payment total,1311.0,Should reconcile to recognized gross
+Sales vs payments difference,0.0,Expected 0.00
+Discount total,10.0,One order has 10.00 discount
+Void exposure,75.0,"Should be reported, not posted"
+Return exposure,46.0,Should reduce sales
+Opening inventory value,4901.0,Opening stock upload
+Theoretical COGS from recipes,180.36,Full ERP posting expected COGS
+Inventory value after sales,4720.64,Opening value minus COGS
+Gross profit before count variance,959.64,Net sales less theoretical COGS
+Food cost % before count variance,15.82,COGS / net sales
+Stock count shortage value,34.16,Expected shortage from stock count file
+Stock count surplus value,3.75,Expected surplus from stock count file

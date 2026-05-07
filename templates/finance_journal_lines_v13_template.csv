@@ -1,0 +1,3 @@
+date,ref,description,accountCode,branchCode,costCenterCode,debit,credit,memo
+2026-01-31,MAN-00001,Opening payroll accrual,6100,R01,CC-R01-KIT,1000,0,Payroll expense
+2026-01-31,MAN-00001,Opening payroll accrual,2300,R01,CC-R01-KIT,0,1000,Employee payable

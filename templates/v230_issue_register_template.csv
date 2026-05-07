@@ -1,0 +1,3 @@
+id,severity,module,issue,evidence,fix
+ISS-SETUP-001,blocker,Setup,No branches loaded,0 branches,Upload branches setup CSV
+ISS-INV-002,warning,Inventory,Zero-cost stock exposure,Zero-cost rows,Post purchase/opening cost before full ERP posting

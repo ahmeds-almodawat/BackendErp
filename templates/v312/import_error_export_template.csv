@@ -1,0 +1,2 @@
+file_id,row_number,field_name,error_code,error_message,severity
+00000000-0000-0000-0000-000000000000,1,account_code,MISSING_REQUIRED,Value required,critical

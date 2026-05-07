@@ -1,0 +1,6 @@
+supplierCode,branchCode,receivingStoreCode,invoiceNo,itemSku,qty,unitPrice,vatRate,discount,costCenterRule
+SUP-FOOD,R01,MAIN,SUP-A-1001,FLOUR,100,3.8,15,0,none_inventory_asset
+SUP-FOOD,R01,MAIN,SUP-A-1001,YEAST,5,18,15,0,none_inventory_asset
+SUP-FOOD,R01,MAIN,SUP-A-1001,CHEESE,40,28,15,0,none_inventory_asset
+SUP-FOOD,R01,MAIN,SUP-A-1001,SAUCE,30,9,15,0,none_inventory_asset
+SUP-FOOD,R01,MAIN,SUP-A-1001,BEEF,50,42,15,0,none_inventory_asset

@@ -1,0 +1,6 @@
+section,control,status,evidence,next_step,priority
+Daily Close,Sales imported,warn,0 sales docs,Upload Foodics sales,P0
+Settlement,MADA settlement,warn,No statement uploaded,Map to POS clearing and reconcile,P0
+Inventory,Negative stock,bad,Any negative row,Post opening stock or GRN,P0
+AP Aging,Open overdue AP,warn,Invoice over 60 days,Schedule payment run,P1
+Menu Engineering,Low margin high seller,warn,Margin below target,Review recipe/price,P1

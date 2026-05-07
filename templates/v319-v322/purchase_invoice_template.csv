@@ -1,0 +1,2 @@
+invoice_no,supplier_code,branch_code,store_code,invoice_date,due_date,subtotal_amount,tax_amount,discount_amount,total_amount,status
+PINV-001,SUP-001,MAIN,MAIN-STORE,2026-01-05,2026-02-04,1000,150,0,1150,draft

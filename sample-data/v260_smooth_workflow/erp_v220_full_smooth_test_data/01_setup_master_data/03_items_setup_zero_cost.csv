@@ -1,0 +1,12 @@
+﻿sku,nameEn,nameAr,category,unit,standardCost,minStock,isSemiFinished
+RM-BEEF,Beef Meat,لحم بقري,Meat,KG,0,5,FALSE
+RM-CHICKEN,Chicken Breast,صدور دجاج,Meat,KG,0,5,FALSE
+RM-BREAD,Flat Bread,خبز مسطح,Bakery,Unit,0,50,FALSE
+RM-SAUCE,House Sauce,صلصة المطعم,Sauces,KG,0,2,FALSE
+SF-PIZZA-DOUGH,Pizza Dough,عجينة بيتزا,Semi-Finished,KG,0,5,TRUE
+RM-CHEESE,Mozzarella Cheese,جبنة موزاريلا,Dairy,KG,0,5,FALSE
+RM-TOMATO,Tomato Sauce,صلصة طماطم,Sauces,KG,0,3,FALSE
+RM-PEPPERONI,Pepperoni Slices,شرائح بيبروني,Meat,KG,0,1,FALSE
+RM-WATER,Water Bottle Stock,مياه معبأة,Beverage,Unit,0,40,FALSE
+RM-ORANGE,Orange,برتقال,Produce,KG,0,8,FALSE
+RM-KUNAFA,Kunafa Portion,حصة كنافة,Dessert,Unit,0,10,FALSE

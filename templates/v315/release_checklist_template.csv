@@ -1,0 +1,5 @@
+section,item_key,label,required,status
+local,npm_build,npm run build passes,true,not_checked
+database,backup_before_migration,Backup before migration,true,not_checked
+security,service_role_not_frontend,Service role key not exposed,true,not_checked
+rollback,restore_test,Restore tested,true,not_checked

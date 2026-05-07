@@ -1,0 +1,6 @@
+stage,area,status,owner,action,evidence
+01,Sample workflow,ready,Admin,Load/import setup master data and Foodics sample files,Setup counts and Foodics batch
+02,Foodics close,partial,Finance,Validate payment mapping and post starter accounting,Foodics reconciliation export
+03,Inventory close,partial,Storekeeper,Post opening stock and monthly count variance,Stock ledger and variance approval register
+04,Finance close,partial,Finance Manager,Review GL AP VAT and trial balance,Balanced journals and close checklist
+05,Backend pilot,missing,Technical lead,Configure Supabase env and dry-run setup sync,Backend readiness export

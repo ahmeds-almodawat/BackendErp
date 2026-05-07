@@ -1,0 +1,2 @@
+movement_no,movement_date,branch_code,store_code,sku,movement_type,direction,quantity,unit_cost,source_type,source_id,status
+OPEN-001,2026-01-01,MAIN,MAIN-STORE,ITEM-001,opening_stock,in,100,10,opening_stock,OPEN-001,draft

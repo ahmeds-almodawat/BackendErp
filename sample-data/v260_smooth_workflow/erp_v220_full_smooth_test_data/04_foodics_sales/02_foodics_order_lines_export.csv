@@ -1,0 +1,28 @@
+﻿order_reference,check_number,order_status,type,parent_item_sku,status,sku,name,name_localized,unit_price,unit_cost,quantity,total_price,total_cost,discount_amount,discount_name,tax_exclusive_unit_price,tax_exclusive_total_price,tax_exclusive_discount_amount,total_taxes,business_date,branch_name,branch_reference
+ORD-001,CHK-1001,Done,Product,,Done,BBQ-BEEF-PLATE,Beef BBQ Plate,طبق مشاوي لحم,75,0,2,150,0,0,,65.22,130.43,0,19.57,2026-05-01,Restaurant 1,B01
+ORD-001,CHK-1001,Done,Product,,Done,WATER,Water Bottle,مياه,3,0,2,6,0,0,,2.61,5.22,0,0.78,2026-05-01,Restaurant 1,B01
+ORD-002,CHK-1002,Done,Product,,Done,PIZZA-MAR,Margherita Pizza,بيتزا مارجريتا,46,0,2,92,0,0,,40.0,80.0,0,12.0,2026-05-01,Restaurant 1,B01
+ORD-002,CHK-1002,Done,Product,,Done,ORANGE-JUICE,Fresh Orange Juice,عصير برتقال طازج,18,0,2,36,0,0,,15.65,31.3,0,4.7,2026-05-01,Restaurant 1,B01
+ORD-003,CHK-1003,Done,Product,,Done,KUNAFA,Kunafa Dessert,كنافة,22,0,3,66,0,0,,19.13,57.39,0,8.61,2026-05-01,Restaurant 1,B01
+ORD-003,CHK-1003,Done,Product,,Done,WATER,Water Bottle,مياه,3,0,3,9,0,0,,2.61,7.83,0,1.17,2026-05-01,Restaurant 1,B01
+ORD-004,CHK-1004,Done,Product,,Done,BBQ-CHICKEN-PLATE,Chicken BBQ Plate,طبق مشاوي دجاج,65,0,1,65,0,0,,56.52,56.52,0,8.48,2026-05-01,Restaurant 1,B01
+ORD-004,CHK-1004,Done,Product,,Done,PIZZA-PEP,Pepperoni Pizza,بيتزا بيبروني,52,0,1,52,0,0,,45.22,45.22,0,6.78,2026-05-01,Restaurant 1,B01
+ORD-004,CHK-1004,Done,Product,,Done,ORANGE-JUICE,Fresh Orange Juice,عصير برتقال طازج,18,0,1,18,0,0,,15.65,15.65,0,2.35,2026-05-01,Restaurant 1,B01
+ORD-005,CHK-1005,Void,Product,,Void,BBQ-BEEF-PLATE,Beef BBQ Plate,طبق مشاوي لحم,75,0,1,75,0,0,,65.22,65.22,0,9.78,2026-05-01,Restaurant 1,B01
+ORD-006,CHK-1006,Returned,Product,,Returned,PIZZA-MAR,Margherita Pizza,بيتزا مارجريتا,46,0,1,46,0,0,,40.0,40.0,0,6.0,2026-05-01,Restaurant 1,B01
+ORD-007,CHK-1007,Done,Product,,Done,STAFF-MEAL,Staff Meal,وجبة موظف,20,0,2,40,0,0,,17.39,34.78,0,5.22,2026-05-02,Restaurant 1,B01
+ORD-008,CHK-1008,Done,Product,,Done,BBQ-CHICKEN-PLATE,Chicken BBQ Plate,طبق مشاوي دجاج,65,0,3,195,0,0,,56.52,169.57,0,25.43,2026-05-01,Restaurant 2,B02
+ORD-008,CHK-1008,Done,Product,,Done,WATER,Water Bottle,مياه,3,0,3,9,0,0,,2.61,7.83,0,1.17,2026-05-01,Restaurant 2,B02
+ORD-009,CHK-1009,Done,Product,,Done,PIZZA-PEP,Pepperoni Pizza,بيتزا بيبروني,52,0,2,104,0,0,,45.22,90.43,0,13.57,2026-05-01,Restaurant 2,B02
+ORD-009,CHK-1009,Done,Product,,Done,ORANGE-JUICE,Fresh Orange Juice,عصير برتقال طازج,18,0,1,18,0,0,,15.65,15.65,0,2.35,2026-05-01,Restaurant 2,B02
+ORD-010,CHK-1010,Done,Product,,Done,BBQ-BEEF-PLATE,Beef BBQ Plate,طبق مشاوي لحم,75,0,1,75,0,0,,65.22,65.22,0,9.78,2026-05-01,Restaurant 2,B02
+ORD-010,CHK-1010,Done,Product,,Done,KUNAFA,Kunafa Dessert,كنافة,22,0,1,22,0,0,,19.13,19.13,0,2.87,2026-05-01,Restaurant 2,B02
+ORD-010,CHK-1010,Done,Product,,Done,WATER,Water Bottle,مياه,3,0,2,6,0,0,,2.61,5.22,0,0.78,2026-05-01,Restaurant 2,B02
+ORD-011,CHK-1011,Done,Product,,Done,PIZZA-MAR,Margherita Pizza,بيتزا مارجريتا,46,0,1,46,0,0,,40.0,40.0,0,6.0,2026-05-02,Restaurant 2,B02
+ORD-011,CHK-1011,Done,Product,,Done,WATER,Water Bottle,مياه,3,0,1,3,0,0,,2.61,2.61,0,0.39,2026-05-02,Restaurant 2,B02
+ORD-012,CHK-1012,Done,Product,,Done,BBQ-CHICKEN-PLATE,Chicken BBQ Plate,طبق مشاوي دجاج,65,0,2,120,0,10,Launch Discount,56.52,104.35,8.7,15.65,2026-05-02,Restaurant 2,B02
+ORD-012,CHK-1012,Done,Product,,Done,ORANGE-JUICE,Fresh Orange Juice,عصير برتقال طازج,18,0,2,36,0,0,,15.65,31.3,0,4.7,2026-05-02,Restaurant 2,B02
+ORD-013,CHK-1013,Done,Product,,Done,PIZZA-MAR,Margherita Pizza,بيتزا مارجريتا,46,0,1,46,0,0,,40.0,40.0,0,6.0,2026-05-02,Restaurant 1,B01
+ORD-013,CHK-1013,Done,Product,,Done,KUNAFA,Kunafa Dessert,كنافة,22,0,1,22,0,0,,19.13,19.13,0,2.87,2026-05-02,Restaurant 1,B01
+ORD-014,CHK-1014,Done,Product,,Done,BBQ-BEEF-PLATE,Beef BBQ Plate,طبق مشاوي لحم,75,0,1,75,0,0,,65.22,65.22,0,9.78,2026-05-02,Restaurant 2,B02
+ORD-014,CHK-1014,Done,Product,,Done,PIZZA-MAR,Margherita Pizza,بيتزا مارجريتا,46,0,1,46,0,0,,40.0,40.0,0,6.0,2026-05-02,Restaurant 2,B02

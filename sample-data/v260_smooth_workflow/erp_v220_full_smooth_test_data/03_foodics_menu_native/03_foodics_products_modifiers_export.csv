@@ -1,0 +1,5 @@
+﻿product_name,product_name_localized,product_sku,modifier_name,modifier_name_localized,modifier_reference,minimum_options,maximum_options,free_options,default_options,unique_options
+Beef BBQ Plate,طبق مشاوي لحم,BBQ-BEEF-PLATE,Extra Skewer,سيخ إضافي,MOD-SKEWER,0,4,0,,No
+Chicken BBQ Plate,طبق مشاوي دجاج,BBQ-CHICKEN-PLATE,Extra Sauce,صلصة إضافية,MOD-SAUCE,0,3,0,,No
+Margherita Pizza,بيتزا مارجريتا,PIZZA-MAR,Pizza Add-ons,إضافات بيتزا,MOD-PIZZA,0,5,0,,No
+Pepperoni Pizza,بيتزا بيبروني,PIZZA-PEP,Pizza Add-ons,إضافات بيتزا,MOD-PIZZA,0,5,0,,No

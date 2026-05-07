@@ -1,0 +1,2 @@
+snapshot_id,domain,severity,message,source_table,source_id,action
+00000000-0000-0000-0000-000000000000,finance,critical,Trial balance not balanced,posting_batch_lines,,Block trusted reporting until posting validation enforces balance

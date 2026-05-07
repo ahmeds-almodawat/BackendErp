@@ -1,0 +1,8 @@
+phase,step,module,required_files,expected_result,validation,status
+01,Setup master data,Import / Export,"branches;stores;items;cost centers;suppliers;chart accounts",Master data is available,Counts validate,not_started
+02,Post opening stock,Inventory,opening_stock_upload.csv,Stock quantity and value exists,Stock movements and inventory value validate,not_started
+03,Import Foodics menu,Sales / POS Trial,"products;ingredients;modifiers",Menu and recipes imported,Menu and recipe counts validate,not_started
+04,Upload Foodics sales,Sales / POS Trial,"orders;lines;payments",Sales batch validates,Payments reconcile,not_started
+05,Post starter accounting,Sales / POS Trial,none,Sales/VAT/payment journals created,Journals balance,not_started
+06,Upload monthly count,Inventory,monthly_stock_count.csv,Variance approvals created,Approvals visible,not_started
+07,Export evidence,Enterprise v240,none,Pilot evidence is exported,No critical blockers,not_started

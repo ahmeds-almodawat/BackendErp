@@ -1,0 +1,3 @@
+code,name_en,name_ar,output_sku,base_output_qty,output_unit,default_expiry_days,ingredient_sku,ingredient_qty,ingredient_unit,wastage_pct
+PR-DGH-001,Pizza Dough Standard Batch,دفعة عجينة البيتزا القياسية,DOUGH,10,KG,2,FLOUR,7.5,KG,1
+PR-DGH-001,Pizza Dough Standard Batch,دفعة عجينة البيتزا القياسية,DOUGH,10,KG,2,YEAST,0.18,KG,0

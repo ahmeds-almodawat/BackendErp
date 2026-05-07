@@ -1,0 +1,2 @@
+reference,number,external_number,branch_name,branch_reference,type,source,status,original_order_reference,business_date,subtotal,total_price,discounts,total_taxes,created_at,closed_at,closed_by,check_number
+ORD-001,1001,,Restaurant 1,B01,Dine In,POS,Done,,2026-04-01,100,115,0,15,2026-04-01 12:00,2026-04-01 12:20,Cashier 1,CHK-1

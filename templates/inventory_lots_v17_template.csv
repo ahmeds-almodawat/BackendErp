@@ -1,0 +1,2 @@
+store_code,item_sku,lot_no,batch_no,bin_code,received_date,expiry_date,qty,unit_cost,status,supplier_code,source_ref
+MAIN,TOMATO,TOM-L001,TOM-B001,A-01-DRY,2026-04-30,2026-05-07,20,4.5,available,SUP-DRY,PINV-00001

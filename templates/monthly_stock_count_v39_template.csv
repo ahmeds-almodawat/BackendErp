@@ -1,0 +1,4 @@
+count_batch_ref,store_code,item_sku,counted_qty,cost_center_code,note
+SC-2026-05-001,R01-KIT,BEEF,9.5,CC-R01-KIT,Monthly count
+SC-2026-05-001,R01-KIT,FLATBREAD,97,CC-R01-KIT,Monthly count
+SC-2026-05-001,R02-KIT,CHICKEN,13,CC-R02-KIT,Monthly count

@@ -1,0 +1,4 @@
+gate,status,evidence,action
+App boot,ready,Error boundary active,Run smoke test
+Setup master data,warning,Import required,Upload setup pack
+Finance balance,ready,Trial balance balanced,Export finance smoke close

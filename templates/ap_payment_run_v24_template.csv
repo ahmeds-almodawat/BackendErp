@@ -1,0 +1,2 @@
+supplier_code,invoice_ref,payment_date,amount,bank_account_code,note
+SUP-MEAT,PINV-00001,2026-04-30,1250,1020,Partial supplier payment

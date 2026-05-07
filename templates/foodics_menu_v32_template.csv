@@ -1,0 +1,3 @@
+sku,name,name_localized,category,price,vat_rate,active
+PIZZA-M,Margherita Pizza,بيتزا مارجريتا,Pizza,35,15,true
+BBQ-PLATE,BBQ Plate,طبق مشاوي,BBQ,65,15,true

@@ -1,0 +1,11 @@
+# v380 Finance Reconciliation Worker QA
+
+Generated: 2026-05-06T13:13:50.816Z
+
+Critical: 0
+Warnings: 0
+
+| Severity | Area | Finding | Action |
+|---|---|---|---|
+
+No v380 finance reconciliation worker issues detected.

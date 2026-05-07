@@ -1,0 +1,2 @@
+count_batch_ref,store_code,store_name,item_sku,item_name,system_qty,counted_qty,variance_formula_note,cost_center_code,note
+SC-2026-05-001,R01-KIT,Restaurant 1 Kitchen Store,RM-BEEF,Beef Meat,10,,Enter physical count only; ERP calculates variance on upload,CC-R01-KIT,Monthly count

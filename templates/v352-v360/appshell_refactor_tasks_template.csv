@@ -1,0 +1,3 @@
+task_key,title,target_folder,risk,status,reason
+move_finance_state,Move finance state into finance module,src/modules/finance,high,planned,Reduce AppShell responsibility
+move_inventory_state,Move inventory state into inventory module,src/modules/inventory,high,planned,Use stock ledger services

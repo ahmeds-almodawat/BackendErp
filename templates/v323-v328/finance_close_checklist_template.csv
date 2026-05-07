@@ -1,0 +1,6 @@
+check_key,label,status,required
+trial_balance_balanced,Trial balance is balanced,not_checked,true
+inventory_reconciled,Inventory valuation reconciled to GL,not_checked,true
+ap_reconciled,AP subledger reconciled to GL,not_checked,true
+bank_reconciled,Bank accounts reconciled,not_checked,true
+vat_reviewed,VAT reviewed,not_checked,true

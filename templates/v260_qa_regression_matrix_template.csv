@@ -1,0 +1,6 @@
+id,test,expected,module,status
+BOOT-001,App boots with empty local data,No white page and dashboard loads,Manual,ready
+SETUP-010,Import setup files,Branches stores items suppliers and accounts loaded,Import / Export,partial
+INV-020,Post opening stock,Inventory value becomes positive,Inventory,partial
+FOOD-040,Foodics menu import,Menu items and recipes available,Sales / POS,partial
+FIN-060,Sales accounting-only posting,Journal balanced,Finance,partial

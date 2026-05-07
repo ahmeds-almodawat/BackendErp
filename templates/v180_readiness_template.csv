@@ -1,0 +1,2 @@
+period,area,control,status,evidence,next
+2026-05,Backend mode,Local/Supabase mode split,Foundation added,v180 bridge added,Wire setup pages to Supabase

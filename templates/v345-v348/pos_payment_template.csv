@@ -1,0 +1,2 @@
+batch_no,payment_method,amount,reference
+POS-LIVE-001,card,115,AUTH-001

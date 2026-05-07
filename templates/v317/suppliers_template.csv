@@ -1,0 +1,2 @@
+supplier_code,name,vat_number,payment_terms,default_account_code,status
+SUP-001,Sample Supplier,300000000000003,30 days,2010,active

@@ -1,0 +1,2 @@
+payment_ref,date,supplier_code,invoice_ref,amount,method,bank_or_cash_account,note
+PAY-00001,2026-01-20,SUP-DRY,PINV-00001,2500,bank,1020,Partial settlement

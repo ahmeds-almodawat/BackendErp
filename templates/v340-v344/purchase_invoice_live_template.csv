@@ -1,0 +1,2 @@
+invoice_no,supplier_code,branch_code,store_code,invoice_date,due_date,sku,quantity,unit_cost,discount_amount,tax_amount
+PINV-LIVE-001,SUP-001,MAIN,MAIN-STORE,2026-01-05,2026-02-04,ITEM-001,20,10,0,30

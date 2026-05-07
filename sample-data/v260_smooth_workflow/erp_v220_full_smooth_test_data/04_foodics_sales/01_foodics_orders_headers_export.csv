@@ -1,0 +1,15 @@
+﻿reference,number,external_number,branch_name,branch_reference,type,source,status,original_order_reference,business_date,subtotal,total_price,discounts,total_taxes,created_at,closed_at,closed_by,check_number
+ORD-001,1001,,Restaurant 1,B01,Dine In,POS,Done,,2026-05-01,135.65,156,0,20.35,2026-05-01 12:41,2026-05-01 12:56,Cashier 1,CHK-1001
+ORD-002,1002,,Restaurant 1,B01,Dine In,POS,Done,,2026-05-01,111.3,128,0,16.7,2026-05-01 12:42,2026-05-01 12:57,Cashier 1,CHK-1002
+ORD-003,1003,,Restaurant 1,B01,Pick up,POS,Done,,2026-05-01,65.22,75,0,9.78,2026-05-01 12:43,2026-05-01 12:58,Cashier 2,CHK-1003
+ORD-004,1004,,Restaurant 1,B01,Dine In,POS,Done,,2026-05-01,117.39,135,0,17.61,2026-05-01 12:44,2026-05-01 12:59,Cashier 1,CHK-1004
+ORD-005,1005,,Restaurant 1,B01,Dine In,POS,Void,,2026-05-01,65.22,75,0,9.78,2026-05-01 12:45,2026-05-01 12:00,Cashier 2,CHK-1005
+ORD-006,1006,,Restaurant 1,B01,Pick up,POS,Returned,ORD-002,2026-05-01,40.0,46,0,6.0,2026-05-01 12:46,2026-05-01 12:01,Cashier 1,CHK-1006
+ORD-007,1007,,Restaurant 1,B01,Dine In,POS,Done,,2026-05-02,34.78,40,0,5.22,2026-05-02 12:47,2026-05-02 12:02,Supervisor,CHK-1007
+ORD-008,1008,,Restaurant 2,B02,Dine In,POS,Done,,2026-05-01,177.39,204,0,26.61,2026-05-01 12:48,2026-05-01 12:03,Cashier 3,CHK-1008
+ORD-009,1009,,Restaurant 2,B02,Dine In,POS,Done,,2026-05-01,106.09,122,0,15.91,2026-05-01 12:49,2026-05-01 12:04,Cashier 3,CHK-1009
+ORD-010,1010,,Restaurant 2,B02,Pick up,POS,Done,,2026-05-01,89.57,103,0,13.43,2026-05-01 12:50,2026-05-01 12:05,Cashier 4,CHK-1010
+ORD-011,1011,,Restaurant 2,B02,Drive Thru,POS,Done,,2026-05-02,42.61,49,0,6.39,2026-05-02 12:51,2026-05-02 12:06,Cashier 4,CHK-1011
+ORD-012,1012,,Restaurant 2,B02,Dine In,POS,Done,,2026-05-02,135.65,156,10,20.35,2026-05-02 12:52,2026-05-02 12:07,Cashier 3,CHK-1012
+ORD-013,1013,,Restaurant 1,B01,Pick up,POS,Done,,2026-05-02,59.13,68,0,8.87,2026-05-02 12:53,2026-05-02 12:08,Cashier 2,CHK-1013
+ORD-014,1014,,Restaurant 2,B02,Dine In,POS,Done,,2026-05-02,105.22,121,0,15.78,2026-05-02 12:54,2026-05-02 12:09,Cashier 4,CHK-1014

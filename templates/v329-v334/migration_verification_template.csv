@@ -1,0 +1,13 @@
+version,label,file_name,critical,status
+v310,Enterprise foundation,20260505231000_v310_enterprise_foundation.sql,true,not_checked
+v311,Backend posting engine,20260505231100_v311_backend_posting_engine.sql,true,not_checked
+v312,Import staging cutover,20260505231200_v312_import_staging_cutover.sql,true,not_checked
+v313,Reporting truth,20260505231300_v313_reporting_truth.sql,true,not_checked
+v314,Performance/UI hardening,20260505231400_v314_performance_ui_hardening.sql,false,not_checked
+v315,Production readiness,20260505231500_v315_production_readiness.sql,true,not_checked
+v316,Backend cutover starter,20260505231600_v316_backend_cutover_starter.sql,true,not_checked
+v317,Master data cutover,20260505231700_v317_master_data_backend_cutover.sql,true,not_checked
+v318,Inventory stock ledger,20260505231800_v318_inventory_stock_ledger_cutover.sql,true,not_checked
+v319-v322,Operational backend cutover,20260505231900_v319_v322_operational_backend_cutover.sql,true,not_checked
+v323-v328,Finance enterprise backend,20260505232300_v323_v328_finance_enterprise_backend.sql,true,not_checked
+v329-v334,Enterprise real backend gate,20260505232900_v329_v334_enterprise_real_backend_gate.sql,true,not_checked

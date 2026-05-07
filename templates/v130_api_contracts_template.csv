@@ -1,0 +1,2 @@
+endpoint,payload,result,guard
+/functions/v1/master-data-sync,"entity,rows,mode","upserted,rejected,errors",setup.manage

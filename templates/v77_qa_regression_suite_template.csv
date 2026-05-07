@@ -1,0 +1,6 @@
+test,steps,expected_result,priority
+Empty app,Open all modules with no data,No white page or crash,P0
+Foodics starter,Upload menu and sales then report-only,Missing recipes are warnings only,P0
+Full ERP gate,Try full posting without stock,Blocked with issue drilldown,P0
+Stock count,Generate count sheet and upload variance,Approval request created,P0
+Reversal,Reverse posted batch with reason,Reversal journal/audit created,P1

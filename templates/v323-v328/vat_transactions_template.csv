@@ -1,0 +1,3 @@
+source_type,source_id,branch_code,tax_date,taxable_amount,vat_amount,direction,status
+sales_pos_batch,POS-001,MAIN,2026-01-01,1000,150,output,posted
+purchase_invoice,PINV-001,MAIN,2026-01-01,500,75,input,posted

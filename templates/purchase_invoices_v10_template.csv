@@ -1,0 +1,3 @@
+supplierCode,branchCode,storeCode,invoiceNo,invoiceDate,deliveryDate,paymentType,paidAmount,itemSku,qty,unitPrice,vatRate,discount
+SUP-001,R01,R01-KIT,INV-001,2026-04-29,2026-04-30,credit,0,FLOUR,10,3.5,15,0
+SUP-001,R01,R01-KIT,INV-001,2026-04-29,2026-04-30,credit,0,CHEESE,5,18,15,0

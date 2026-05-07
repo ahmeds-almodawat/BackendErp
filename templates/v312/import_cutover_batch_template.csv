@@ -1,0 +1,2 @@
+staging_file_id,mapping_profile_id,branch_id,business_date,file_hash,source_type,row_count,status,rollback_status
+00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,2026-05-05,sha256-placeholder,foodics_sales,0,draft,none

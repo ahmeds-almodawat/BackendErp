@@ -1,0 +1,6 @@
+area,test,expected
+Startup,Load master data and fast trial scenario,No crash
+Inventory,Opening stock + monthly count + variance approval,Stock and GL impact
+Foodics,Upload menu/sales/payments and validate,Issue center works
+Finance,Post balanced journal and block unbalanced opening,Controls enforced
+Close,Export v65 enterprise control pack,CSV generated

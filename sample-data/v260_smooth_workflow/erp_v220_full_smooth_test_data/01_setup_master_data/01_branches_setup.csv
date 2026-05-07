@@ -1,0 +1,4 @@
+﻿code,nameEn,nameAr,active
+R01,Restaurant 1,مطعم ١,TRUE
+R02,Restaurant 2,مطعم ٢,TRUE
+MAIN,Main Warehouse,المستودع الرئيسي,TRUE

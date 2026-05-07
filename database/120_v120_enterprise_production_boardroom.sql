@@ -1,0 +1,2 @@
+-- V120 Enterprise Production Boardroom backend design
+-- Blueprint only. Next real milestone: Supabase Auth, PostgreSQL schema, RLS, Edge Functions, Storage, Audit triggers.

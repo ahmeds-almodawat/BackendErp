@@ -1,0 +1,4 @@
+check_key,source_module,batch_ref,source_total,ledger_total,difference,severity,finding,action_required
+sales_pos_batch_total,Sales/POS,POS-2026-05-05,12500,12500,0,ok,POS batch equals ledger,Ready for close
+bank_statement_match,Banking,BNK-2026-05-05,8900,8800,100,warning,Bank statement difference exists,Attach explanation or correction journal
+ap_subledger_match,Purchasing/AP,AP-2026-05,45000,45000,0,ok,AP subledger agrees to GL,No action

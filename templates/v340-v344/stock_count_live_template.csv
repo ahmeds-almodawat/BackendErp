@@ -1,0 +1,2 @@
+count_no,branch_code,store_code,count_date,sku,system_quantity,counted_quantity,unit_cost,reason
+CNT-LIVE-001,MAIN,MAIN-STORE,2026-01-31,ITEM-001,100,98,10,Monthly stock count

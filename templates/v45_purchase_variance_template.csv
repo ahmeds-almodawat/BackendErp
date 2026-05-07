@@ -1,0 +1,2 @@
+po_ref,supplier,sku,item,ordered_qty,received_qty,invoiced_qty,po_unit_cost,invoice_unit_cost,qty_variance,price_variance
+PO-0001,Main Supplier,RM-BEEF,Beef Meat,10,10,10,45,45,0,0

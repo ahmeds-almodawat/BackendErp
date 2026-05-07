@@ -1,0 +1,5 @@
+name,import_type,file_type,duplicate_key,requires_approval,uploaded_column,erp_field
+Default POS Sales Mapping,pos_sales,csv,branchCode+date+posReceiptNo,true,Date,saleDate
+Default POS Sales Mapping,pos_sales,csv,branchCode+date+posReceiptNo,true,Branch,branchCode
+Default POS Sales Mapping,pos_sales,csv,branchCode+date+posReceiptNo,true,Item,posItemName
+Default POS Sales Mapping,pos_sales,csv,branchCode+date+posReceiptNo,true,Quantity,qty

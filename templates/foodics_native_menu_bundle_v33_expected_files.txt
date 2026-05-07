@@ -1,0 +1,4 @@
+Upload these native Foodics CSV files together:
+1) products_export*.csv
+2) products_ingredients_export*.csv
+3) products_modifiers_export*.csv

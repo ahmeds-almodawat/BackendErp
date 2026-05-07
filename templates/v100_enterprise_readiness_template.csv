@@ -1,0 +1,2 @@
+period,area,control,status,score,detail,next_action
+2026-05,Backend,Supabase production backend,bad,2,Local trial only,Build Auth/RLS/Edge Functions

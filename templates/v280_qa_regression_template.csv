@@ -1,0 +1,9 @@
+id,test,expected,status
+QA-001,App boot,Dashboard loads without white page,manual
+QA-002,Setup payload export,JSON file downloads,manual
+QA-003,Setup dry-run,Returns local OK or Supabase OK,manual
+QA-004,Foodics starter flow,Sales accounting can post without recipes,manual
+QA-005,Full ERP guard,Blocks missing recipe/stock/cost,manual
+QA-006,Opening stock,Stock movements created,manual
+QA-007,Monthly count,Variance requires approval,manual
+QA-008,Finance,Trial balance has no diff,manual

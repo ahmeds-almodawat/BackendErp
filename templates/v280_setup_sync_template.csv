@@ -1,0 +1,9 @@
+section,field,required,notes
+branches,code,yes,Unique branch code
+branches,nameEn,yes,English branch name
+stores,code,yes,Unique store code
+stores,branchId,yes,main or existing branch id
+items,sku,yes,Unique SKU used for Foodics mapping
+items,baseUnit,yes,KG/Gram/Piece/Liter/etc
+suppliers,vatNo,preferred,Required before production AP
+chartAccounts,code,yes,Unique GL account code

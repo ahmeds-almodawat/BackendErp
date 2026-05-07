@@ -1,0 +1,3 @@
+version,stream,deliverable,status,priority
+v131,Auth cutover,Supabase Auth bootstrap,Blueprint + skeleton,Critical
+v150,Production launch suite,Enterprise v150 cockpit and backend artefacts,Included,Critical

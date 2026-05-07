@@ -1,0 +1,4 @@
+area,severity,finding,action,count
+Branches,ready,Branches loaded,Ready for backend sync,0
+Stores,ready,Stores loaded,Ready for backend sync,0
+Items,ready,SKUs loaded,Ready for backend sync,0

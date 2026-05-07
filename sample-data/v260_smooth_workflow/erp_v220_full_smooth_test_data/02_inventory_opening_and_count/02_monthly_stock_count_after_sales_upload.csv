@@ -1,0 +1,23 @@
+﻿count_batch_ref,store_code,item_sku,counted_qty,cost_center_code,note
+SC-2026-05-SMOOTH-001,R01-KIT,RM-BEEF,19.0,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-CHICKEN,24.45,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-BREAD,97.0,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-SAUCE,4.84,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,SF-PIZZA-DOUGH,14.34,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-CHEESE,9.68,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-TOMATO,7.88,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-PEPPERONI,4.96,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-WATER,95.0,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-ORANGE,23.95,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R01-KIT,RM-KUNAFA,26.0,CC-R01-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-BEEF,19.4,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-CHICKEN,23.25,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-BREAD,93.0,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-SAUCE,4.79,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,SF-PIZZA-DOUGH,14.12,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-CHEESE,9.58,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-TOMATO,7.84,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-PEPPERONI,4.92,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-WATER,97.0,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-ORANGE,23.95,CC-R02-KIT,May smooth trial stock count
+SC-2026-05-SMOOTH-001,R02-KIT,RM-KUNAFA,28.0,CC-R02-KIT,May smooth trial stock count

@@ -1,0 +1,7 @@
+document,required_validation,permission,inventory_effect,gl_effect
+Foodics sales accounting,batch+payment mapping+open period,foodics.batch.post,none,sales+VAT+settlement
+Foodics full ERP,batch+recipes+stock+cost,foodics.batch.full_post,recipe deduction,sales+VAT+COGS+inventory
+Opening stock,store+SKU+qty+unit cost,inventory.opening.post,stock in,inventory opening
+Monthly stock count,count+approval,inventory.count.post,variance adjustment,inventory variance
+Manual journal,debit equals credit,finance.journal.post,none,journal lines
+Supplier payment,invoice allocation+payer bank,purchasing.payment.post,none,AP decrease and bank decrease

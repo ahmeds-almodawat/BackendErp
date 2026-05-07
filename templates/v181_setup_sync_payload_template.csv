@@ -1,0 +1,7 @@
+entity_type,source_key,action,status,required_before_sync
+branch,B01,upsert,validated,yes
+store,R01-KITCHEN,upsert,validated,yes
+item,RM-BEEF,upsert,validated,yes
+supplier,SUP-001,upsert,validated,no
+cost_center,CC-R01-KITCHEN,upsert,validated,no
+chart_account,1300,upsert,validated,yes

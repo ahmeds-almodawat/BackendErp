@@ -1,0 +1,2 @@
+batch_no,branch_code,store_code,opening_date,sku,quantity,unit_cost,lot_no,expiry_date,memo
+OPEN-LIVE-001,MAIN,MAIN-STORE,2026-01-01,ITEM-001,100,10,LOT-001,2026-12-31,Opening stock

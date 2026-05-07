@@ -1,0 +1,12 @@
+-- v33 Native Foodics Menu Import design notes
+-- Future Supabase tables should include:
+-- foodics_menu_import_batches
+-- foodics_product_staging
+-- foodics_product_ingredient_staging
+-- foodics_product_modifier_staging
+-- foodics_modifier_groups
+-- foodics_modifier_options (future when option export is available)
+-- menu_item_source_links
+-- recipe_source_links
+
+-- In local MVP v33, these structures are simulated in browser state.

@@ -1,0 +1,4 @@
+test,expected_result,priority
+Empty app boot,Dashboard loads without white page,Critical
+Foodics sales upload,Headers lines payments detected mapped validated,Critical
+Full ERP posting,Blocks missing recipe cost stock and posts when ready,Critical

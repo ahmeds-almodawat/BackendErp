@@ -1,0 +1,2 @@
+count_no,count_date,branch_code,store_code,sku,system_quantity,counted_quantity,unit_cost,reason
+CNT-001,2026-01-31,MAIN,MAIN-STORE,ITEM-001,100,98,10,Monthly count variance

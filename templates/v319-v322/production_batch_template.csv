@@ -1,0 +1,2 @@
+batch_no,branch_code,source_store_code,destination_store_code,recipe_code,output_sku,planned_output_quantity,actual_output_quantity,status
+PB-001,MAIN,MAIN-STORE,MAIN-STORE,REC-DOUGH,DOUGH-001,100,98,draft

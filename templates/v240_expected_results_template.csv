@@ -1,0 +1,7 @@
+metric,expected,tolerance,why
+Foodics order headers,14,0,Confirms sales header import sample is complete
+Done orders,12,0,Void and returned order are excluded/handled separately
+Recognized gross after void/return,1311.00,0.50,Core Foodics reconciliation amount
+VAT output,171.00,0.50,VAT from sample Foodics orders
+Opening inventory value,6383.00,1.00,Confirms opening stock loaded with cost
+Theoretical COGS,180.36,2.00,Recipe-cost expectation for smooth sample

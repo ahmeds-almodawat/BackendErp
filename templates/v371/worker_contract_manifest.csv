@@ -1,0 +1,2 @@
+contract_id,run_id,job_id,worker,lane,status,lease_seconds,idempotency_key,max_attempts,backoff_seconds,required_secrets
+V371-CONTRACT-WRUN-example,WRUN-example,V369-JOB-001,worker-imports-master-data-cutover-validation,background,watch,120,V369-JOB-001:WRUN-example:cursor:0:dry,4,30,"SUPABASE_URL,SUPABASE_SERVICE_ROLE_KEY"

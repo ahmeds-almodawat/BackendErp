@@ -1,0 +1,9 @@
+job_id,module,job,lane,estimated_rows,batch_size,trigger,guardrail,output
+V369-JOB-001,Imports,Master data cutover validation,background,0,2000,Before go-live load or large menu refresh,Checkpoint validation progress,Validated import manifest and rollback checkpoint
+V369-JOB-002,Inventory,Stock ledger recalculation,background,0,5000,After opening stock or monthly count,Rebuild in chunks and reconcile totals,On-hand average cost lot and bin balances
+V369-JOB-003,Sales / POS,POS posting replay,background,0,5000,After POS import outage or late branch upload,Replay idempotently by source reference,Posted sales payments and recipe deductions
+V369-JOB-004,Reports,Management report snapshot rebuild,scheduled,0,10000,Nightly or after historical backfill,Run outside peak hours,Frozen report snapshot with source counts
+V369-JOB-005,Finance,Subledger and GL reconciliation sweep,background,0,5000,Before period lock and payment run,Block on unbalanced journals,AP AR GL exception report
+V369-JOB-006,Security,RLS and permission smoke sweep,scheduled,0,5000,After role update or branch rollout,Record allow and deny evidence,Permission matrix by module and scope
+V369-JOB-007,Audit,Audit archive and evidence export,archive,0,20000,Weekly or before local storage reaches limit,Export immutable evidence before pruning,Signed archive and retained hot window
+V369-JOB-008,Backup,Chunked backup export,archive,0,20000,Before migration cleanup or large import,Write row-count manifest,Chunked JSON CSV backup pack

@@ -1,0 +1,9 @@
+check_key,module,label,severity,status,required_for_backend_cutover
+qa_all_passes,qa,npm run qa:all passes,critical,not_checked,true
+supabase_client_real,backend,Real Supabase client is configured,critical,not_checked,true
+service_role_not_frontend,security,Service role key is not exposed in frontend,critical,not_checked,true
+migrations_verified,database,All expected migrations verified on staging,critical,not_checked,true
+auth_shell_ready,auth,Authentication shell is ready,critical,not_checked,true
+rbac_rules_defined,access,RBAC route/action rules are defined,critical,not_checked,true
+rls_matrix_defined,security,RLS test matrix is defined,critical,not_checked,true
+backup_restore_done,ops,Backup and restore test completed,critical,not_checked,true

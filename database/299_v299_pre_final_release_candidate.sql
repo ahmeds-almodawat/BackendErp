@@ -1,0 +1,2 @@
+-- v299 pre-final release candidate design notes
+-- In production, persist release gates, QA runs, issue queue, and sign-off snapshots.

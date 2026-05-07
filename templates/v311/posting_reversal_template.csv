@@ -1,0 +1,2 @@
+original_batch_ref,original_batch_id,reversal_batch_ref,reversal_date,reason,reversed_by,notes
+PB-2026-0001,33333333-3333-3333-3333-333333333333,PB-2026-0001-REV,2026-05-06,Duplicate source document prevented,finance.manager@example.com,Mirror the original lines and keep the original batch immutable.

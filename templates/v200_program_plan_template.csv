@@ -1,0 +1,6 @@
+step,status,priority,owner,next_action
+v182 Setup Repository,Partial,Critical,Engineering,Create local/Supabase repository adapter
+v186 Posting Orchestrator,Partial,Critical,Finance/Engineering,Centralize posting guard
+v187 Approval Workflow,Partial,High,Owner/Audit,Activate maker-checker flow
+v188 Attachment Vault,Partial,High,Finance/Procurement,Connect storage policies
+v200 Production Review,Partial,Critical,Steering Committee,Approve pilot branch

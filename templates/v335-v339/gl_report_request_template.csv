@@ -1,0 +1,5 @@
+report_type,period_start,period_end,branch_code
+trial_balance,2026-01-01,2026-01-31,MAIN
+general_ledger,2026-01-01,2026-01-31,MAIN
+income_statement,2026-01-01,2026-01-31,MAIN
+balance_sheet,2026-01-01,2026-01-31,MAIN

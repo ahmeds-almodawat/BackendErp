@@ -1,0 +1,7 @@
+﻿store_code,item_sku,system_qty_after_sales,counted_qty,variance_qty,unit_cost,variance_value
+R01-KIT,RM-BEEF,19.4,19.0,-0.4,42.0,-16.8
+R01-KIT,RM-BREAD,95.0,97.0,2.0,0.75,1.5
+R01-KIT,RM-SAUCE,4.87,4.84,-0.03,12.0,-0.36
+R02-KIT,RM-CHICKEN,23.75,23.25,-0.5,26.0,-13.0
+R02-KIT,RM-WATER,94.0,97.0,3.0,0.75,2.25
+R02-KIT,RM-KUNAFA,29.0,28.0,-1.0,4.0,-4.0

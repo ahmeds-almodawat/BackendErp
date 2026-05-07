@@ -1,0 +1,5 @@
+step_key,title,module,expected_minutes,status,required
+backup_restore,Backup and restore test,ops,60,planned,true
+apply_migrations,Apply migrations to staging,database,30,planned,true
+load_seed_data,Load UAT seed data,uat,45,planned,true
+run_uat_scenarios,Run UAT scenarios,uat,180,planned,true

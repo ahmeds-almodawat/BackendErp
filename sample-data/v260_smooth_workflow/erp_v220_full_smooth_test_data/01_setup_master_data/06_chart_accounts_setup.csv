@@ -1,0 +1,15 @@
+﻿code,nameEn,nameAr,type,parentCode,requireCostCenter,active
+1000,Assets,الأصول,asset,,false,true
+1100,Cash on Hand,النقدية في الصندوق,asset,1000,false,true
+1110,Bank / Card Clearing,تسوية البنك والبطاقات,asset,1000,false,true
+1120,Delivery App Receivable,ذمم تطبيقات التوصيل,asset,1000,false,true
+1300,Inventory,المخزون,asset,1000,false,true
+2000,Liabilities,الالتزامات,liability,,false,true
+2100,Accounts Payable,ذمم الموردين,liability,2000,false,true
+2200,VAT Output / Payable,ضريبة القيمة المضافة المستحقة,liability,2000,false,true
+2210,VAT Input,ضريبة القيمة المضافة المدخلة,asset,1000,false,true
+3000,Equity / Opening Balance,حقوق الملكية / الرصيد الافتتاحي,equity,,false,true
+4000,Food Sales,مبيعات الأغذية,revenue,,false,true
+5000,Food Cost / COGS,تكلفة الغذاء / تكلفة المبيعات,expense,,true,true
+6700,Inventory Variance / Wastage,فروقات وجرد وهدر المخزون,expense,,true,true
+6800,Hospitality / Complimentary Expense,مصروف الضيافة والمجاملات,expense,,true,true

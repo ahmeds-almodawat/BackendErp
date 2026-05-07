@@ -1,0 +1,4 @@
+menuCode,itemSku,qty,unit,wastagePct,note
+PIZZA-M,DOUGH,0.22,KG,2,Semi-finished dough
+PIZZA-M,CHEESE,0.12,KG,1,Cheese
+PIZZA-M,SAUCE,0.06,KG,1,Sauce

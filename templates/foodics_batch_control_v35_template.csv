@@ -1,0 +1,2 @@
+batch_ref,posting_mode,status,approved_by,approved_at,posted_at,reversed_at,reversal_reason,order_count,line_count,payment_count,order_gross,payment_total,difference
+FOODICS-2026-04,sales,approved,Local User,2026-05-01T12:00:00Z,,,checked against summary,18253,48793,18700,1239058.60,1236620.60,2438.00

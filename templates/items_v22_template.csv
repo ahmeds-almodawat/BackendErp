@@ -1,0 +1,2 @@
+sku,nameEn,nameAr,category,purchaseUnit,consumptionUnit,conversionFactor,minStock,maxStock,reorderPoint,isSemiFinished,active
+TOMATO,Fresh Tomato,طماطم طازجة,Vegetables,KG,KG,1,10,100,20,false,true

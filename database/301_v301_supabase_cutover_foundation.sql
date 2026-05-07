@@ -1,0 +1,2 @@
+-- v301 Supabase Cutover Foundation marker
+-- Full executable migration: supabase/migrations/20260502301000_v301_setup_persistence.sql

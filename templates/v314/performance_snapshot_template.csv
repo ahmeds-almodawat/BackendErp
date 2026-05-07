@@ -1,0 +1,2 @@
+route_key,bundle_kb,row_count,status,findings
+dashboard,710,0,warning,"Main bundle above 500 KB warning threshold"

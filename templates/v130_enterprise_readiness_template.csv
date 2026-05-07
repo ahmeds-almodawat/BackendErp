@@ -1,0 +1,2 @@
+period,area,control,status,tone,evidence,next
+2026-05,Backend,Supabase schema pack,Ready for local db reset,good,v121-v130 migrations included,Run supabase start and db reset

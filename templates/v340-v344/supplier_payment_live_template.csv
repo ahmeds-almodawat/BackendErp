@@ -1,0 +1,2 @@
+payment_no,supplier_code,branch_code,payment_date,amount,method,account_code,memo
+PAY-LIVE-001,SUP-001,MAIN,2026-01-10,230,bank,1010,Partial supplier payment

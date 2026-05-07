@@ -1,0 +1,6 @@
+-- v41 design note: inventory count sheets
+-- Future backend tables:
+-- inventory_count_batches(id, ref, store_id, count_date, status, created_by, approved_by, posted_at)
+-- inventory_count_lines(id, batch_id, item_id, system_qty, counted_qty, variance_qty, avg_cost, cost_center_id, status)
+-- inventory_count_approvals(id, batch_id, line_id, approver_id, decision, note, decided_at)
+-- Server-side posting should create stock movements and journal entries in one transaction.

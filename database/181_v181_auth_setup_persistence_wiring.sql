@@ -1,0 +1,2 @@
+-- v181 design reference: Auth + Setup Persistence Wiring
+-- See supabase/migrations/20260502181000_v181_auth_setup_persistence.sql for executable backend scaffold.

@@ -1,0 +1,6 @@
+phase,area,control,status,action
+A,Environment,Supabase variables configured,pending,Create .env.local
+B,Schema,v301 setup persistence tables,manual,Apply migration
+C,RLS,Company isolation policies,manual,Smoke test owner/admin
+D,Setup Sync,Dry-run payload,ready,Run dry-run
+E,Cutover,Pilot write mode,not started,Enable after QA

@@ -1,0 +1,3 @@
+resource,file_name,row_count,approved_by,business_reason
+items,items_cutover.csv,100,Finance Manager,Initial live master data cutover
+chart_accounts,coa_cutover.csv,80,Finance Manager,Initial chart of accounts cutover

@@ -1,0 +1,5 @@
+area,check_key,severity,enabled,description_en,description_ar
+Accounting,journals_balanced,critical,true,All posted journals must balance,يجب أن تكون جميع القيود المرحلة متوازنة
+Inventory,no_negative_available_stock,critical,true,Available stock must not be negative,يجب ألا يكون الرصيد المتاح سالباً
+Purchasing,grni_aging,warning,true,GRNI should be matched to supplier invoices quickly,يجب مطابقة البضائع غير المفوترة بسرعة
+Imports,duplicate_key_required,critical,true,Every import profile needs a duplicate key,كل خريطة استيراد تحتاج مفتاح تكرار

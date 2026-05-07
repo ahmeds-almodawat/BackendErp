@@ -1,0 +1,3 @@
+date,ref,description,accountCode,debit,credit,branchCode,costCenterCode,memo
+2026-04-29,MAN-001,Manual adjustment,6100,1000,0,R01,CC-R01-KIT,Payroll accrual
+2026-04-29,MAN-001,Manual adjustment,2200,0,1000,R01,CC-R01-KIT,Payroll accrual

@@ -1,0 +1,2 @@
+reference_id,severity,module,message,user_message,status
+SUP-SAMPLE,error,finance,Sample technical error,Action failed. Contact support with reference SUP-SAMPLE,open

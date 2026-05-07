@@ -1,0 +1,4 @@
+run_id,job_id,module,job,lane,status,dry_run,total_rows,batch_size,total_batches,completed_batches,checkpoint,evidence
+WRUN-example,V369-JOB-001,Imports,Master data cutover validation,background,queued,true,0,2000,1,0,cursor:0,Queued from manifest
+WRUN-example-2,V369-JOB-002,Inventory,Stock ledger recalculation,background,running,true,10000,5000,2,1,cursor:5000,Advanced one checkpoint
+WRUN-example-3,V369-JOB-004,Reports,Management report snapshot rebuild,scheduled,paused,true,25000,5000,5,2,cursor:10000,Paused outside operating window

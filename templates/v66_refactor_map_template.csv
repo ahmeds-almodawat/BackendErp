@@ -1,0 +1,4 @@
+package,move_from,move_to,why,risk
+Finance,App.tsx FinancePage,src/modules/finance,Safer accounting development,Medium
+Inventory,App.tsx InventoryPage,src/modules/inventory,Central costing and stock controls,Medium
+Posting,scattered functions,src/engines/postingGuardEngine.ts,Single posting path,High

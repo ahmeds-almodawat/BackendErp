@@ -1,0 +1,2 @@
+code,name,vatNo,paymentTerms,contactName,phone,email,bankName,bankAccount,representativeName,representativePhone,active
+SUP-001,Supplier Name,300000000000003,30 days,Main Contact,05xxxx,name@example.com,SNB,SA0000000000000000000000,Representative,05xxxx,true

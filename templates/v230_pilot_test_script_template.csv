@@ -1,0 +1,4 @@
+id,stage,objective,actions,expected,status
+PILOT-001,Boot,Open app and confirm no white page,"Start app > Switch language > Open modules",App opens without white page,pass
+PILOT-020,Inventory,Post opening stock,"Inventory > Opening Stock Upload > Post",Stock ledger and value are created,warning
+PILOT-040,Foodics,Upload sales and resolve issues,"Upload headers > lines > payments > map SKU",Sales accounting-only has no blockers,warning

@@ -1,0 +1,3 @@
+task_key,screen,module,estimated_rows,needs_server_pagination,needs_export,status
+journal_entries,Journal Entries,finance,100000,true,true,planned
+inventory_movements,Inventory Movements,inventory,100000,true,true,planned

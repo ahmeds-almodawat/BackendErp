@@ -1,0 +1,4 @@
+﻿code,nameEn,nameAr,branchCode,type,active
+R01-KIT,Restaurant 1 Kitchen Store,مخزن مطبخ مطعم ١,R01,kitchen,TRUE
+R02-KIT,Restaurant 2 Kitchen Store,مخزن مطبخ مطعم ٢,R02,kitchen,TRUE
+MAIN-DRY,Main Dry Store,المستودع الجاف الرئيسي,MAIN,main,TRUE

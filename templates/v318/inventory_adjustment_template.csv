@@ -1,0 +1,2 @@
+adjustment_no,branch_code,store_code,sku,direction,quantity,unit_cost,reason,status
+ADJ-001,MAIN,MAIN-STORE,ITEM-001,in,5,10,Opening correction,draft

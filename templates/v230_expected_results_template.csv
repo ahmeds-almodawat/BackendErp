@@ -1,0 +1,10 @@
+metric,expected,actual,tolerance,status
+Order headers,14,,0,info
+Foodics order lines,24,,0,info
+Payment lines,13,,0,info
+Recognized gross after void/return,1311,,5,warning
+VAT output,171,,5,info
+Opening inventory value,6383,,100,warning
+Theoretical COGS from recipes,180.36,,50,warning
+Stock count shortage value,34.16,,10,info
+Stock count surplus value,3.75,,10,info

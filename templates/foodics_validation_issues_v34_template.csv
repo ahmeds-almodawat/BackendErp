@@ -1,0 +1,3 @@
+issue_key,severity,entity_ref,entity_label,details,resolution_action
+unmapped_items,bad,SKU-001,Foodics Item Name,"{""qty"":10,""net_sales"":500}",Map SKU to ERP menu item
+missing_recipes,bad,MENU-001,ERP Menu Item,"{""linked_skus"":""SKU-001""}",Create/import recipe lines

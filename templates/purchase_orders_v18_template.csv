@@ -1,0 +1,2 @@
+supplier_code,branch_code,store_code,eta,item_sku,qty,unit_cost,vat_rate
+SUP-DRY,R01,MAIN,2026-05-01,FLOUR,100,3.80,15

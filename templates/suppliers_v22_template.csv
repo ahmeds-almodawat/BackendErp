@@ -1,0 +1,2 @@
+code,name,vatNo,paymentTerms,contactName,phone,email,bankName,bankAccount,representativeName,representativePhone,active
+SUP-001,Fresh Food Supplier,300000000000003,30 days,Sales Desk,0500000000,supplier@example.com,SNB,SA0000000000000000000001,Mohammed,0501111111,true

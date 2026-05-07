@@ -1,0 +1,2 @@
+period,area,control,status,score,detail,action
+2026-05,Inventory,Negative stock protection,good,10,0 negative rows,Enable backend blocking before production

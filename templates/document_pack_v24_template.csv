@@ -1,0 +1,5 @@
+document_type,document_ref,required_attachment,required_before_posting
+purchase_order,PO-00001,supplier_quotation,false
+goods_receipt,GRN-00001,delivery_note,true
+supplier_invoice,PINV-00001,supplier_invoice_image,true
+supplier_payment,PAY-00001,bank_transfer_receipt,true

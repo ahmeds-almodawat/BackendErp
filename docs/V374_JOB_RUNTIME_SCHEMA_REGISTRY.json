@@ -1,0 +1,75 @@
+{
+  "version": "v374 Job Runtime Schema",
+  "generatedAt": "2026-05-06T13:13:48.901Z",
+  "migrationFile": "supabase\\migrations\\20260506374000_v374_job_runtime_schema.sql",
+  "totalTables": 7,
+  "readyTables": 7,
+  "incompleteTables": 0,
+  "missingTables": 0,
+  "findings": [
+    {
+      "table": "worker_jobs",
+      "status": "ready",
+      "missingColumns": [],
+      "missingIndexes": [],
+      "hasRls": true,
+      "hasPolicy": true,
+      "action": "Schema contract present. Use v375 to add acquire/heartbeat/release RPCs."
+    },
+    {
+      "table": "worker_job_runs",
+      "status": "ready",
+      "missingColumns": [],
+      "missingIndexes": [],
+      "hasRls": true,
+      "hasPolicy": true,
+      "action": "Schema contract present. Use v375 to add acquire/heartbeat/release RPCs."
+    },
+    {
+      "table": "worker_job_leases",
+      "status": "ready",
+      "missingColumns": [],
+      "missingIndexes": [],
+      "hasRls": true,
+      "hasPolicy": true,
+      "action": "Schema contract present. Use v375 to add acquire/heartbeat/release RPCs."
+    },
+    {
+      "table": "worker_job_checkpoints",
+      "status": "ready",
+      "missingColumns": [],
+      "missingIndexes": [],
+      "hasRls": true,
+      "hasPolicy": true,
+      "action": "Schema contract present. Use v375 to add acquire/heartbeat/release RPCs."
+    },
+    {
+      "table": "worker_job_artifacts",
+      "status": "ready",
+      "missingColumns": [],
+      "missingIndexes": [],
+      "hasRls": true,
+      "hasPolicy": true,
+      "action": "Schema contract present. Use v375 to add acquire/heartbeat/release RPCs."
+    },
+    {
+      "table": "worker_dead_letters",
+      "status": "ready",
+      "missingColumns": [],
+      "missingIndexes": [],
+      "hasRls": true,
+      "hasPolicy": true,
+      "action": "Schema contract present. Use v375 to add acquire/heartbeat/release RPCs."
+    },
+    {
+      "table": "worker_audit_events",
+      "status": "ready",
+      "missingColumns": [],
+      "missingIndexes": [],
+      "hasRls": true,
+      "hasPolicy": true,
+      "action": "Schema contract present. Use v375 to add acquire/heartbeat/release RPCs."
+    }
+  ],
+  "nextAction": "Proceed to v375 Worker Lease Runtime: acquire, heartbeat, release, expire, retry, and dead-letter RPCs."
+}

@@ -1,0 +1,3 @@
+code,nameEn,nameAr,type,parentCode,requireCostCenter,active
+1000,Assets,الأصول,asset,,false,true
+6100,Payroll Expense,مصروف الرواتب,expense,6000,true,true

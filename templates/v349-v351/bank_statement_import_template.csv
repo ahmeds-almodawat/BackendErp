@@ -1,0 +1,2 @@
+import_no,account_code,period_start,period_end,statement_date,description,amount,reference
+BANK-LIVE-001,1010,2026-01-01,2026-01-31,2026-01-01,Opening deposit,1000,REF-001

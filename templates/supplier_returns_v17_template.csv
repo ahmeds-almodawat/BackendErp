@@ -1,0 +1,2 @@
+supplier_code,store_code,item_sku,qty,reason,credit_type
+SUP-DRY,MAIN,TOMATO,3,Damaged box,ap_credit

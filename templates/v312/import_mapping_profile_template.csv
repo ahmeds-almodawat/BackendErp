@@ -1,0 +1,3 @@
+source_type,profile_name,version,status,required_fields,optional_fields,source_column,target_field,is_required,notes
+chart_of_accounts,Default chart of accounts,1.0.0,active,"account_code,account_name_en","account_name_ar,account_type,parent_code",account_code,account_code,true,
+items,Default items,1.0.0,active,"item_code,item_name_en","item_name_ar,category_code",item_code,item_code,true,

@@ -1,0 +1,2 @@
+area,test,expected
+Backend migration,Run supabase db reset,All migrations apply without errors

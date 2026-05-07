@@ -1,0 +1,100 @@
+{
+  "bom_removed": [],
+  "includes_inlined": [],
+  "policies_fixed": [],
+  "grants_guarded": [],
+  "unique_expr_fixed": [],
+  "compat_alters_inserted": [
+    {
+      "file": "20260502130000_v130_backend_cutover_schema.sql",
+      "table": "import_staging_rows",
+      "columns": 4
+    },
+    {
+      "file": "20260502180000_v180_production_wiring.sql",
+      "table": "backend_mode_status",
+      "columns": 5
+    },
+    {
+      "file": "20260502181000_v181_auth_setup_persistence.sql",
+      "table": "setup_sync_batches",
+      "columns": 3
+    },
+    {
+      "file": "20260502301000_v301_setup_persistence.sql",
+      "table": "chart_accounts",
+      "columns": 6
+    },
+    {
+      "file": "20260502301000_v301_setup_persistence.sql",
+      "table": "items",
+      "columns": 10
+    },
+    {
+      "file": "20260502301000_v301_setup_persistence.sql",
+      "table": "suppliers",
+      "columns": 5
+    },
+    {
+      "file": "20260502301000_v301_setup_persistence.sql",
+      "table": "stores",
+      "columns": 2
+    },
+    {
+      "file": "20260502301000_v301_setup_persistence.sql",
+      "table": "branches",
+      "columns": 3
+    },
+    {
+      "file": "20260505030900_v309_finance_truth_layer.sql",
+      "table": "finance_reconciliation_checks",
+      "columns": 7
+    },
+    {
+      "file": "20260506237500_v375_worker_lease_runtime.sql",
+      "table": "worker_audit_events",
+      "columns": 3
+    },
+    {
+      "file": "20260506237500_v375_worker_lease_runtime.sql",
+      "table": "worker_dead_letters",
+      "columns": 6
+    },
+    {
+      "file": "20260506237500_v375_worker_lease_runtime.sql",
+      "table": "worker_job_artifacts",
+      "columns": 3
+    },
+    {
+      "file": "20260506237500_v375_worker_lease_runtime.sql",
+      "table": "worker_job_checkpoints",
+      "columns": 2
+    },
+    {
+      "file": "20260506237500_v375_worker_lease_runtime.sql",
+      "table": "worker_job_leases",
+      "columns": 1
+    },
+    {
+      "file": "20260506237500_v375_worker_lease_runtime.sql",
+      "table": "worker_job_runs",
+      "columns": 5
+    },
+    {
+      "file": "20260506237500_v375_worker_lease_runtime.sql",
+      "table": "worker_jobs",
+      "columns": 5
+    }
+  ],
+  "warnings": [],
+  "files_changed": [
+    "migrations/20260502130000_v130_backend_cutover_schema.sql",
+    "migrations/20260502130100_v130_rls_and_permissions.sql",
+    "migrations/20260502180000_v180_production_wiring.sql",
+    "migrations/20260502181000_v181_auth_setup_persistence.sql",
+    "migrations/20260502301000_v301_setup_persistence.sql",
+    "migrations/20260505030900_v309_finance_truth_layer.sql",
+    "migrations/20260505231000_v310_enterprise_foundation.sql",
+    "migrations/20260506237500_v375_worker_lease_runtime.sql"
+  ]
+}

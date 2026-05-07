@@ -1,0 +1,5 @@
+section,item,status,value
+monthly_close,Branches configured,ready,
+inventory,Negative stock rows,critical,0
+finance,Unbalanced posted journals,critical,0
+food_cost,Theoretical vs actual variance,review,

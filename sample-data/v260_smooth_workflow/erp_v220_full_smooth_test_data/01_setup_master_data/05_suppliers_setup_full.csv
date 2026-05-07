@@ -1,0 +1,4 @@
+﻿code,name,vatNo,paymentTerms,contactName,phone,email,bankName,bankAccount,representativeName,representativePhone,active
+SUP-MEAT,Prime Meat Supplier,300000000000003,30 days,Khaled Sales,0500000001,meat@example.com,SNB,SA1110000000000000000001,Khaled,0500000001,true
+SUP-BAKERY,Daily Bakery Supplier,300000000000004,15 days,Omar Baker,0500000002,bakery@example.com,Al Rajhi,SA2220000000000000000002,Omar,0500000002,true
+SUP-GROCERY,Fresh Grocery Supplier,300000000000005,Cash,Sara Fresh,0500000003,grocery@example.com,Riyad Bank,SA3330000000000000000003,Sara,0500000003,true

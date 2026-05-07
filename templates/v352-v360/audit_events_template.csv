@@ -1,0 +1,3 @@
+module,action,record_type,record_id,risk
+finance,post,journal,JRN-001,critical
+inventory,adjust,stock_adjustment,ADJ-001,high

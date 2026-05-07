@@ -1,0 +1,9 @@
+id,title,objective,steps,expected,status
+BOOT-001,Empty app boot and navigation smoke test,Open all main modules without white page,Dashboard > Inventory > Sales/POS > Finance > Enterprise v220,No crash,pending
+SETUP-010,Load fast trial scenario,Create sample local data,Dashboard > Load fast trial scenario,Master data appears,pending
+INV-020,Opening stock upload,Create stock quantity and cost,Inventory > Opening Stock Upload > Post,Stock movement appears,pending
+INV-030,Monthly stock count,Create count variance approval,Inventory > Monthly Stock Count > Upload > Approval Queue,Variance requires approval,pending
+FOODICS-040,Foodics starter flow,Upload menu and sales and auto map,Sales/POS > Menu Import > Upload > Auto map,Validation appears,pending
+POST-050,Sales accounting only,Post sales without recipe blockers,Sales/POS > Posting > Sales Accounting Only,Sales/VAT journal appears,pending
+FULL-060,Full ERP posting guard,Block missing recipe/stock/cost,Sales/POS > Posting > Full ERP Posting,Blockers appear,pending
+FIN-070,Finance close smoke,Review GL/TB/AP/periods,Finance > Trial Balance > AP > Periods,No imbalance or explained,pending

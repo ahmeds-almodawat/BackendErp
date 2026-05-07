@@ -1,0 +1,2 @@
+request_type,store_code,item_sku,direction,qty,cost_center_code,reason,note
+adjustment,R01-KIT,BOX,out,5,CC-R01-KIT,Damaged packaging,Supervisor review required

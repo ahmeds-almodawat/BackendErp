@@ -1,0 +1,2 @@
+store_code,sku,item_name,category,on_hand,average_cost,value,status
+MAIN,FLOUR,Flour,Dry Food,60,3.8,228,OK

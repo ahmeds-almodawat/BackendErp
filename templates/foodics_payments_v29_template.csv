@@ -1,0 +1,2 @@
+order_reference,branch_name,branch_reference,payment_method_name,payment_method_name_localized,retrieval_reference_number,amount,tendered,tips,business_date,order_business_date,paid_at,employee_name
+ORD-001,Restaurant 1,B01,Cash,نقدي,,115,115,0,2026-04-01,2026-04-01,2026-04-01 12:21,Cashier 1

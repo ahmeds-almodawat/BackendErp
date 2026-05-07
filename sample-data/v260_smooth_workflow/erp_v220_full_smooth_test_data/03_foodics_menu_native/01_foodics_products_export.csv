@@ -1,0 +1,9 @@
+﻿id,name,sku,category_reference,tax_group_reference,is_sold_by_weight,is_active,is_stock_product,price,cost,barcode,description,preparation_time,calories,walking_minutes_to_burn_calories,is_high_salt,image,name_localized,description_localized
+p-001,Beef BBQ Plate,BBQ-BEEF-PLATE,BBQ,VAT15,No,Yes,No,75,,,,15,,,No,,طبق مشاوي لحم,
+p-002,Chicken BBQ Plate,BBQ-CHICKEN-PLATE,BBQ,VAT15,No,Yes,No,65,,,,12,,,No,,طبق مشاوي دجاج,
+p-003,Margherita Pizza,PIZZA-MAR,PIZZA,VAT15,No,Yes,No,46,,,,10,,,No,,بيتزا مارجريتا,
+p-004,Pepperoni Pizza,PIZZA-PEP,PIZZA,VAT15,No,Yes,No,52,,,,10,,,No,,بيتزا بيبروني,
+p-005,Water Bottle,WATER,BEV,VAT15,No,Yes,No,3,,,,0,,,No,,مياه,
+p-006,Fresh Orange Juice,ORANGE-JUICE,BEV,VAT15,No,Yes,No,18,,,,5,,,No,,عصير برتقال طازج,
+p-007,Kunafa Dessert,KUNAFA,DESSERT,VAT15,No,Yes,No,22,,,,5,,,No,,كنافة,
+p-008,Staff Meal,STAFF-MEAL,INTERNAL,VAT15,No,Yes,No,20,,,,8,,,No,,وجبة موظف,

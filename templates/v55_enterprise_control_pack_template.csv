@@ -1,0 +1,5 @@
+sheet,area,control,status,risk,owner,next_action
+close_controls,Close,Sales posted for period,review,Sales missing,Finance,Upload and approve Foodics batch
+food_cost,Inventory,Theoretical vs actual review,review,Cost variance,Cost Controller,Review stock count and recipes
+purchase_variance,Purchasing,PO/GRN/Invoice matching,review,Variance,Procurement,Investigate supplier invoice
+finance_close,Finance,AP/AR/bank/VAT review,review,Open balances,Finance,Reconcile before close

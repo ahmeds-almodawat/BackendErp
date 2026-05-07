@@ -1,0 +1,7 @@
+test_key,module,actor_role,action,resource,expected,critical
+normal_user_cannot_post_finance,finance,normal_user,rpc,finance_post_journal,deny,true
+report_viewer_cannot_modify_finance,finance,report_viewer,update,finance_journal_entries_backend,deny,true
+inventory_manager_can_adjust_inventory,inventory,inventory,insert,inventory_adjustment_requests,allow,true
+normal_user_cannot_see_other_branch_stock,inventory,normal_user,select,inventory_stock_balances,deny,true
+admin_can_manage_settings,setup,admin,update,app_settings,allow,true
+normal_user_cannot_approve_imports,imports,normal_user,rpc,import_approve_staging_file,deny,true

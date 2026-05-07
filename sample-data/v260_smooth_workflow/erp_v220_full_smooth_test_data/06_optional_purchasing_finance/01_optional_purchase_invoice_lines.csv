@@ -1,0 +1,3 @@
+﻿supplierCode,branchCode,storeCode,invoiceNo,invoiceDate,deliveryDate,paymentType,paidAmount,itemSku,qty,unitPrice,vatRate,discount
+SUP-GROCERY,R01,R01-KIT,PINV-2026-05-001,2026-05-02,2026-05-02,credit,0,RM-ORANGE,10,5.2,15,0
+SUP-MEAT,R02,R02-KIT,PINV-2026-05-002,2026-05-02,2026-05-02,credit,0,RM-CHICKEN,10,26.5,15,0

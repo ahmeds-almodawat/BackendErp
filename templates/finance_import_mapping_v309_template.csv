@@ -1,0 +1,7 @@
+import_kind,source_column,target_table,target_column,required,validation_rule,example
+posting_batch,Reference,finance_posting_batches,batch_ref,true,unique_not_empty,JE-0001
+posting_batch,Posting Date,finance_posting_batches,posting_date,true,date_iso,2026-05-05
+posting_line,Account,finance_posting_batch_lines,account_code,true,exists_chart_of_accounts,1010
+posting_line,Debit,finance_posting_batch_lines,debit,true,numeric_gte_zero,1000
+posting_line,Credit,finance_posting_batch_lines,credit,true,numeric_gte_zero,0
+report_import,Report Pack,report_import_registrations,mapped_report_pack,true,one_of_today_payments_products_categories_finance_inventory,Today

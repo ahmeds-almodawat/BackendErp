@@ -1,0 +1,2 @@
+statement_line_id,journal_line_id,matched_amount,notes
+statement-line-uuid,journal-line-uuid,1000,Matched opening deposit

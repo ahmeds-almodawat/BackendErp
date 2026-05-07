@@ -1,0 +1,6 @@
+area,status,detail,risk,next_action
+Branches,missing,No ERP branches loaded,Block all mapped posting,Upload branches or create branches in Setup
+Stores,missing,No branch-linked deduction store,Block full posting,Create stores linked to branches
+Menu Items,missing,No ERP menu items,Block item mapping,Upload menu items
+Recipes,missing,No recipe lines,Block inventory deduction,Create multi-line recipes
+Payment Accounts,missing,Payment methods not mapped,Block accounting posting,Map payment methods to GL accounts

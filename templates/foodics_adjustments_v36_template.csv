@@ -1,0 +1,5 @@
+adjustment_type,order_reference,original_order_reference,branch_reference,sku,payment_method,amount,vat_amount,treatment_policy
+discount,ORD-001,,B01,SKU-001,,10,1.30,revenue_posted_net
+void,ORD-002,,B01,,,0,0,exclude_from_gl_and_inventory
+return,ORD-003,ORD-001,B01,SKU-001,,50,6.52,negative_revenue_vat_no_inventory_restore
+refund_payment,ORD-003,ORD-001,B01,,MADA,-56.52,0,credit_payment_clearing_account

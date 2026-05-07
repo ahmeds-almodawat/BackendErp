@@ -1,0 +1,6 @@
+area,gate,status,signal,action,owner,evidence
+Master data,Unique connected setup records,manual,"No duplicate or orphan records","Resolve missing setup before live import",Implementation lead,"v367_upgrade_gates.csv"
+Finance,GL foundation and balanced journals,manual,"No unbalanced posted journal entries","Close journal blockers before monthly close",Finance lead,"trial_balance_export.csv"
+Inventory,Stock ledger supports COGS,manual,"No negative stock or zero-cost on-hand rows","Post opening valuation and correct balances",Inventory lead,"stock_ledger_export.csv"
+Backend,Production mode cannot use demo fallback,manual,"Supabase configured for staging or production","Run migrations and RPC smoke tests",Backend lead,"supabase db reset log"
+Access,Roles users and critical permissions,manual,"All high-risk module permissions covered","Seed authority matrix and run RLS tests",Security lead,"permission_matrix_export.csv"

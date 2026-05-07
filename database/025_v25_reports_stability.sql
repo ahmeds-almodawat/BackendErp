@@ -1,0 +1,7 @@
+-- v25 Reports Stability + Analytics
+-- Design notes for production backend:
+-- 1) Replace local report calculations with SQL views/materialized views.
+-- 2) Add board_report_views table for saved report filters.
+-- 3) Add report_exports table for generated exports and audit trail.
+-- 4) Create views for branch_pnl, inventory_valuation, supplier_spend, menu_engineering, and finance_pack.
+-- 5) Add RLS so users only see branches/stores/cost centers within their scope.

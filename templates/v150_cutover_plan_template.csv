@@ -1,0 +1,3 @@
+wave,title,action,exit
+0,Local freeze,Freeze v150 package and sample data,QA suite green locally
+1,Supabase local,Apply migrations and seed policies,RLS smoke tests pass

@@ -1,0 +1,6 @@
+item_key,label,status,notes
+rtl_arabic,Arabic RTL layout verified,not_checked,
+ltr_english,English LTR layout verified,not_checked,
+loading_states,Loading states present,not_checked,
+empty_states,Empty states present,not_checked,
+danger_confirm,Dangerous actions require confirmation,not_checked,

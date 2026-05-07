@@ -1,0 +1,3 @@
+nav_key,label,route,module,required_permission,risk_level,show_in_sidebar
+finance,Finance,/finance,finance,finance.view,critical,true
+inventory,Inventory,/inventory,inventory,inventory.view,high,true

@@ -1,0 +1,6 @@
+area,status,priority,owner,next_action
+Setup master data,Partial,Critical,ERP Admin,Complete setup and run backend sync dry-run
+Backend environment,Missing,Critical,Technical Lead,Configure Supabase URL and anon key
+Posting orchestrator,Partial,Critical,Finance/Engineering,Route posting through server-side guard
+Approval workflow,Partial,High,Owner/Internal Audit,Activate maker-checker controls
+Attachment vault,Partial,High,Finance/Procurement,Define required attachments and storage buckets

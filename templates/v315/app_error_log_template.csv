@@ -1,0 +1,2 @@
+reference_id,severity,module,message
+ERR-SAMPLE,error,finance,"Sample production-safe error log"

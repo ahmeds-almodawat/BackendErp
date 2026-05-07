@@ -1,0 +1,6 @@
+route,module,owner,qa_check,status
+smartAnalysis,src/modules/analytics/SmartAnalysisPage.tsx,analytics,route lazy-loads and AppShell has no SmartAnalysisPage function,complete
+imports,src/modules/imports/ImportExportPage.tsx,imports,route lazy-loads and AppShell has no ImportExportPage function,complete
+reports,src/modules/reports/ReportsPage.tsx,reports,route lazy-loads and AppShell has no ReportsPage function,complete
+inventory-csv,src/modules/imports/importCsvUtils.ts,imports,CSV helpers are shared outside AppShell,complete
+app-shell,src/app/AppShell.tsx,platform,line count is under 2400,complete

@@ -1,0 +1,2 @@
+test,stream,deliverable,status,priority
+QA-01,Build,Run npm install and npm run build,Manual test required,Critical

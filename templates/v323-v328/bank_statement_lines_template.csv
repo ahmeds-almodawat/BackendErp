@@ -1,0 +1,2 @@
+bank_account_code,statement_date,description,amount,status
+1010,2026-01-01,Opening deposit,1000,unmatched

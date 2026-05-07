@@ -1,0 +1,4 @@
+wave,layer,deliverable,priority,owner
+1,Auth & tenancy,Supabase Auth profiles and user scope,Critical,Platform
+1,Core schema,Setup inventory finance Foodics tables,Critical,Platform + Finance
+2,Posting functions,Server-side Foodics stock count journal payment posting,Critical,Finance + Platform

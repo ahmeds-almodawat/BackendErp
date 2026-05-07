@@ -1,0 +1,3 @@
+reference,date,description,account_code,branch_code,cost_center_code,debit,credit,memo
+OPEN-2026,2026-01-01,Opening balance,1020,COMPANY,COMPANY,80000,0,Opening bank
+OPEN-2026,2026-01-01,Opening balance,3100,COMPANY,COMPANY,0,80000,Owner capital

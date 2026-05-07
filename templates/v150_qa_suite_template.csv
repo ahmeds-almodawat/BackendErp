@@ -1,0 +1,4 @@
+area,test,expected,priority
+Build,npm install && npm run build,Build passes,Critical
+Foodics,Upload menu and sales sample,Validation and issue center work,High
+Backend,supabase db reset,Migrations apply,Critical

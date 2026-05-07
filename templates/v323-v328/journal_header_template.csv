@@ -1,0 +1,2 @@
+journal_no,journal_date,branch_code,fiscal_period_code,source_type,source_id,description,status
+JRN-001,2026-01-01,MAIN,2026-01,manual_journal,,Opening manual journal,draft

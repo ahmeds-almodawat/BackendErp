@@ -1,0 +1,7 @@
+gate,rule,required_before,status,evidence
+Local smoke,No white page across main modules,Testing,required,
+Data bootstrap,Branches stores items opening stock and count test pass,Testing,required,
+Foodics upload,Sample Foodics menu and sales upload without crash,Testing,required,
+Posting safety,Full ERP posting blocks missing recipe stock cost,Testing,required,
+Finance sanity,Trial balance difference zero or explained,Testing,required,
+Backend pilot,Supabase credentials and setup dry-run pass,Multi-user pilot,required,
